@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MwGMiIbBLlJZeDAVy9Bz6w" name=",_d0m9MNiYEeiD7K0-g28vVA" guid="-MwGMiIbBLlJZeDAVy9Bz6w" changeDate="2018-10-25T15:58:25.083-0500">
+  <keyConsiderations>&lt;p>&#xD;
+    Esta tarea aplica para los casos en que los servicios que son parte de las alternativas de migración, estan en proceso&#xD;
+    de construcción.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Esta notificación es para indicarle a los consumidores que el servicio ya esta disponible para su uso.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Esta tarea se ejecuta según lo establecido en el cronograma del plan de jubilación.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    La notificación se realiza segun al estarategia de divulgación establecida en el &lt;strong>plan de jubilación&lt;/strong>&#xD;
+&lt;/p></keyConsiderations>
+  <purpose>Notificar a los consumidores la disponiblidad de un servicio comtemplado dentro de las alternativas de migración.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

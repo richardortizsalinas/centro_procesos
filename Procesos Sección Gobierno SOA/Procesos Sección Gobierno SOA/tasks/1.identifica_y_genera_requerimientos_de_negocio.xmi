@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-cfGxn29uR-ajTuxloxCwVQ" name="identifica_y_genera_requerimientos_de_negocio,_lesG8F53Ed22Gu98eFOlrQ" guid="-cfGxn29uR-ajTuxloxCwVQ" changeDate="2018-09-20T09:24:03.485-0500">
+  <mainDescription>&lt;p class=&quot;MsoNormal&quot;&#xD;
+style=&quot;TEXT-ALIGN: justify; MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 120%; TEXT-AUTOSPACE: ; mso-layout-grid-align: none&quot;>&#xD;
+    &lt;span lang=&quot;ES&quot; style='FONT-SIZE: 10pt; FONT-FAMILY: &quot;Lucida Sans&quot;,sans-serif; LINE-HEIGHT: 120%'>Identifica y genera&#xD;
+    requerimientos de negocio con las necesidades del proyecto, estos requerimientos se pueden expresar a través de&#xD;
+    historias de usuario, modelos conceptuales, casos de uso, etc.&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <purpose>Enables the&amp;nbsp;Product Owner to make prioritization decisions</purpose>
+</org.eclipse.epf.uma:TaskDescription>

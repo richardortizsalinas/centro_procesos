@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-lmj-aPnfxFOlGT54vHwT4g" name="establecer_fecha_de_ejecucion_de_la_jubilacion,_Z2S5QNZCEeixjO0WOf6fUg" guid="-lmj-aPnfxFOlGT54vHwT4g" changeDate="2018-10-23T08:20:34.455-0500">
+  <mainDescription>&lt;p>&#xD;
+    La fecha en la cual se ejecuta la jubilación&amp;nbsp;del servicio.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Esta es la fecha en la cual la versión del servicio o el servicio, debe ser retirada de los ambientes de QA y&#xD;
+    Productivos.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Esta fecha representa la finalización del proceso de Jubilación.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Esta fecha&amp;nbsp;establece el plazo maximo para que los consumidores realizacen la migración.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    La definición de esta fecha debe ser almacenada en el plan de jubilación.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Esta fecha puede variar durante la ejecución del plan de jubilación, debido a factores como:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Los consumidores presentan condiciones especiales, que hacen necesario ampliar la fecha de jubilación. Es muy&#xD;
+        importante que sea por condiciones especiales, los consumidores deben incluir en sus planes de trabajo las tareas&#xD;
+        para realizar la migración.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        La fecha de disponibilidad de la nueva versión del servicio o el nuevo servicio, ha cambiado lo cual hace necesario&#xD;
+        mantener el servicio de jubilación disponible&amp;nbsp;por un periodo de tiempo adicional.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br /></keyConsiderations>
+  <purpose>&lt;p>&#xD;
+    Establecer la fecha en la cual se ejecuta la jubilación del servicio.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--OmeeCdOSH1ki1_i9TN0kg" name="analista_negocio,_QcnRMOF5Edyp34pwdTOSVQ" guid="--OmeeCdOSH1ki1_i9TN0kg" changeDate="2018-09-20T09:06:29.429-0500">
+  <copyrightStatement href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_4kVeYOGBEdyp34pwdTOSVQ"/>
+  <mainDescription>&lt;p>&#xD;
+    El analista de negocio tiene las siguientes responsabilidades:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Identifica y genera requerimientos de negocio con las necesidades del proyecto, estos requerimientos se pueden expresar&#xD;
+    a través de historias de usuario, modelos conceptuales, casos de uso, etc&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+  <assignmentApproaches>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        A single person dedicated the the project - must be available to answer the team's questions&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        An extended member of the team that participates in sprint planning and sprint review&amp;nbsp;meetings&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Typically someone from a Marketing role or a key user in internal development&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Can be a&amp;nbsp;customer representative or a customer proxy&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></assignmentApproaches>
+</org.eclipse.epf.uma:RoleDescription>

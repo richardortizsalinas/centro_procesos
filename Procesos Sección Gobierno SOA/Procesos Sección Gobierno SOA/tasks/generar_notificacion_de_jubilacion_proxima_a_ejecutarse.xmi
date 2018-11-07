@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-f6z6jmFPX8Rt6RSSCXvtuQ" name="generar_notificacion_de_jubilacion_proxima_a_ejecutarse,_nUaYINibEeiD7K0-g28vVA" guid="-f6z6jmFPX8Rt6RSSCXvtuQ" changeDate="2018-10-25T16:37:23.761-0500">
+  <keyConsiderations>&lt;p>&#xD;
+    Esta tarea se ejecuta según lo establecido en el cronograma del plan de jubilación.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    La notificación se realiza segun al estarategia de divulgación establecida en el &lt;strong>plan de jubilación&lt;/strong>&#xD;
+&lt;/p></keyConsiderations>
+  <purpose>Notiticar a los consumidores sobre la proximidad de la ejecución de la jubilación del servicio.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

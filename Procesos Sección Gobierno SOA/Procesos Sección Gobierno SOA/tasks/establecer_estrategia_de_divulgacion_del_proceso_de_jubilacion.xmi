@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mm0x0spAvwwWCJCj05dmng" name=",_LUj6cNbMEeixjO0WOf6fUg" guid="-mm0x0spAvwwWCJCj05dmng" changeDate="2018-10-23T09:11:42.371-0500">
+  <mainDescription>&lt;p>&#xD;
+    Es muy importante que los consumidores esten informados sobre el proceso de jubilación, entregandoles la información&#xD;
+    clara sobre el proceso, facilitandoles la realización del proceso de migración.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    El principal canal de comunicación establecido es el correo electronico, a través del cual se realizan los comunicados&#xD;
+    sobre los eventos del proceso de jubilación.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Como estartegia dedivulgación tambien se plantea la realización&amp;nbsp;reuniones de los lideres del proceso de Jubilación&#xD;
+    ( dueño tecnico y funcional) con los consumidores. Se recomienda realizar una reunión con los consumidores para&#xD;
+    presentarles la información relevante para ellos sobre el proceso de jubilación. La importancia de esta reunión esta en&#xD;
+    poder escuchar las inquietudes de los consumidores y poder obtener de parte de ellos una retroalimentacióon que pueda&#xD;
+    ayudar a complementar y/o&amp;nbsp; ajustar el plan de jubilación.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Teniendo en cuenta que no todos los consumidores pueden asistir a las reuniones, la notificaciones se deben enviar&#xD;
+    siempre vía correo electrónico.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Cualquier modificación en el plan de jubilación debe ser notificada a los consumidores, especialmente si existen&#xD;
+    cambios en la fecha de ejecución de la jubilación o en las alternativas para la migración.&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    Es muy importante informar a los consumidores:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        El inicio del proceso de jubilación.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Notificación sobre la aproximación de la ejecución de la jubilación.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Alternativas&amp;nbsp;al servicio, esto para facilitar la migración del consumidor a una versión del servicio o a un&#xD;
+        nuevo servicio.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></keyConsiderations>
+  <purpose>Definir los mecanismos de comunicación con los consumidores.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

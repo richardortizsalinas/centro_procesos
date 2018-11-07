@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-8xA-c8WMHvZplR1pIo1fJg" name=",_ugAo8L0MEeiaRZinmuc1jA" guid="-8xA-c8WMHvZplR1pIo1fJg" changeDate="2018-09-20T14:38:55.438-0500">
+  <mainDescription>&lt;span lang=&quot;ES&quot;&#xD;
+style='FONT-SIZE: 10pt; FONT-FAMILY: &quot;Lucida Sans&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: ES; mso-fareast-language: ES; mso-bidi-language: AR-SA'>&#xD;
+A partir de Requerimientos de Negocio, Diseño del proceso, Draft de Arquitectura, Contextualización por parte del&#xD;
+Arquitecto de la solución, el Analista SOA hará una evaluación funcional y estratégica de las necesidades de servicios del&#xD;
+proyecto ejecutando el Subproceso Modelamiento de Servicios&lt;/span></mainDescription>
+</org.eclipse.epf.uma:TaskDescription>

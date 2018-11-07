@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-W6taEFz0hRudNkL7q4NS_Q" name=",_SKYvkNiJEeiWxaPfbRKKAA" guid="-W6taEFz0hRudNkL7q4NS_Q" changeDate="2018-10-25T14:22:35.274-0500">
+  <mainDescription>&lt;p>&#xD;
+    Para cumplir con el ciclo establecido de estados de un servicio, es necesario realizar la modificación en el&#xD;
+    Registry.El servicio o versión del servicio deben pasar al estado Deprecado. A partir de este momento los consumidores&#xD;
+    deben inicar el plan de migración.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Esta tarea se ejecuta segun lo establecido en el cronograma del plan de jubilación.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>Este cambio de estado se debe acompañar de la respectiva notificación a los consumidores.</keyConsiderations>
+  <purpose>Poner en estado Desprecado el servicio o versión&amp;nbsp;a jubilar.</purpose>
+</org.eclipse.epf.uma:TaskDescription>
