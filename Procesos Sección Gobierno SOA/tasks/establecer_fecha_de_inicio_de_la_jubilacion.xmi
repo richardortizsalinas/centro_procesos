@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Ax9IyBngt_AibVubPx0i0Q" name=",_qvxCsNZAEeixjO0WOf6fUg" guid="-Ax9IyBngt_AibVubPx0i0Q" changeDate="2018-10-25T14:36:34.520-0500">
+  <mainDescription>&lt;p>&#xD;
+    El proceso de jubilación tiene un hito muy importante: establecer la fecha de inicio de jubilación.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Esta es la fecha en la cual la versión del servicio o el servicio, no deben aceptar nuevos consumidores.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Esta fecha representa el momento en el cual los consumidores del servicio deben iniciar su proceso de migración a una&#xD;
+    nueva version de servicio o a un nuevo servicio.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Esta fecha determina el punto en el cual se debe realizar la notificación a los consumidores sobre el inicio&#xD;
+    del&amp;nbsp;proceso de jubilación y que el servicio pasa a estado &lt;strong>Deprecado&lt;/strong>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    La definición de esta fecha debe ser almacenada en el plan de jubilación.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A partir de esta fecha los consumidores deben incluir en sus planes de trabajo las tareas para realizar la migración.&#xD;
+&lt;/p></keyConsiderations>
+  <purpose>&lt;p>&#xD;
+    Establecer la fecha en la cual inicia la jubilación del servicio. Fecha en la cual el servicio pasa a estado&#xD;
+    &lt;strong>Deprecado&lt;/strong>.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

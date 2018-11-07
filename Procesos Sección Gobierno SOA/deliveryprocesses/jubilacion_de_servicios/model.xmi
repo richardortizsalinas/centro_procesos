@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_Dm7IUNiYEeiD7K0-g28vVA" guid="_Dm7IUNiYEeiD7K0-g28vVA">
+    <resourceDescriptors xmi:id="_Dm7IUdiYEeiD7K0-g28vVA" id="-Si-m556_gIBzLRmmRSvvUg" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_DkKvQNiYEeiD7K0-g28vVA" name="jubilacion_de_servicios" guid="_DkKvQNiYEeiD7K0-g28vVA">
+    <methodElementProperty xmi:id="_DkLWUNiYEeiD7K0-g28vVA" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="_RJO2wNiYEeiD7K0-g28vVA" name="me_edited" value="true"/>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_IhDvgNkmEeiD7K0-g28vVA" name="ejecutar_jubilacion_del_servicio" guid="_IhDvgNkmEeiD7K0-g28vVA" presentationName="Ejecutar Jubilación del Servicio" superActivities="_DkKvQdiYEeiD7K0-g28vVA" linkToPredecessor="_dF-x0Nk2EeiD7K0-g28vVA" mandatoryInput="_IhLEQNkmEeiD7K0-g28vVA" performedPrimarilyBy="_IhJ2INkmEeiD7K0-g28vVA">
+      <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_gIEJYNifEeiD7K0-g28vVA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_IhEWkNkmEeiD7K0-g28vVA" name="ejecutar_proceso_de_asignacion_de_duenos_funcionales_y_tecnicos" guid="_IhEWkNkmEeiD7K0-g28vVA" presentationName="Ejecutar proceso de asignación de dueños funcionales y tecnicos" superActivities="_DkKvQdiYEeiD7K0-g28vVA" performedPrimarilyBy="_IhJ2IdkmEeiD7K0-g28vVA">
+      <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_FFd9QNfEEeiWxaPfbRKKAA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_IhEWkdkmEeiD7K0-g28vVA" name="establecer_estrategia_de_divulgacion_del_proceso_de_jubilacion" guid="_IhEWkdkmEeiD7K0-g28vVA" presentationName="Establecer estrategia de divulgación del proceso de jubilación" superActivities="_DkKvQdiYEeiD7K0-g28vVA" linkToPredecessor="_hCkHsNksEeiD7K0-g28vVA" additionallyPerformedBy="_IhJ2INkmEeiD7K0-g28vVA" mandatoryInput="_IhLEQNkmEeiD7K0-g28vVA" output="_IhLEQNkmEeiD7K0-g28vVA" performedPrimarilyBy="_IhJ2ItkmEeiD7K0-g28vVA">
+      <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_LUj6cNbMEeixjO0WOf6fUg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_IhE9oNkmEeiD7K0-g28vVA" name="establecer_fecha_de_ejecucion_de_la_jubilacion" guid="_IhE9oNkmEeiD7K0-g28vVA" presentationName="Establecer fecha de ejecución de la jubilación" superActivities="_DkKvQdiYEeiD7K0-g28vVA" linkToPredecessor="_iEthMNksEeiD7K0-g28vVA" mandatoryInput="_IhLEQNkmEeiD7K0-g28vVA" output="_IhLEQNkmEeiD7K0-g28vVA">
+      <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_Z2S5QNZCEeixjO0WOf6fUg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_IhE9odkmEeiD7K0-g28vVA" name="establecer_fecha_de_inicio_de_la_jubilacion" guid="_IhE9odkmEeiD7K0-g28vVA" presentationName="Establecer fecha de inicio de la jubilación" superActivities="_DkKvQdiYEeiD7K0-g28vVA" linkToPredecessor="_hlZH8NksEeiD7K0-g28vVA" mandatoryInput="_IhLEQNkmEeiD7K0-g28vVA" output="_IhLEQNkmEeiD7K0-g28vVA">
+      <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_qvxCsNZAEeixjO0WOf6fUg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_IhFksNkmEeiD7K0-g28vVA" name="establecer_motivo_para_realizar_la_jubilacin" guid="_IhFksNkmEeiD7K0-g28vVA" presentationName="Establecer motivo para realizar la jubilación" superActivities="_DkKvQdiYEeiD7K0-g28vVA">
+      <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_Npf8wM5hEeixjO0WOf6fUg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_IhFksdkmEeiD7K0-g28vVA" name="generar_alternativas_de_migracion_para_los_consumidores" guid="_IhFksdkmEeiD7K0-g28vVA" presentationName="generar alternativas de migración para los consumidores" superActivities="_DkKvQdiYEeiD7K0-g28vVA" linkToPredecessor="_kNiEUNkrEeiD7K0-g28vVA" additionallyPerformedBy="_IhJ2INkmEeiD7K0-g28vVA" performedPrimarilyBy="_IhJ2ItkmEeiD7K0-g28vVA">
+      <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_cY6vUNb4EeixjO0WOf6fUg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_IhFkstkmEeiD7K0-g28vVA" name="generar_listado_de_consumidores_del_servicio_a_jubilar" guid="_IhFkstkmEeiD7K0-g28vVA" presentationName="Generar Listado de consumidores del servicio a jubilar" superActivities="_DkKvQdiYEeiD7K0-g28vVA" linkToPredecessor="_jURhENkrEeiD7K0-g28vVA" additionallyPerformedBy="_IhJ2INkmEeiD7K0-g28vVA" mandatoryInput="_IhLEQNkmEeiD7K0-g28vVA" output="_IhLEQNkmEeiD7K0-g28vVA" performedPrimarilyBy="_IhJ2ItkmEeiD7K0-g28vVA">
+      <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_9rAUwNYsEeixjO0WOf6fUg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_IhFks9kmEeiD7K0-g28vVA" name="generar_notificacion_de_jubilacion_proxima_a_ejecutarse" guid="_IhFks9kmEeiD7K0-g28vVA" presentationName="Generar notificación de jubilación proxima a ejecutarse" superActivities="_DkKvQdiYEeiD7K0-g28vVA" linkToPredecessor="_0YFmYNk2EeiD7K0-g28vVA" performedPrimarilyBy="_IhJ2ItkmEeiD7K0-g28vVA">
+      <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_nUaYINibEeiD7K0-g28vVA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_IhGLwNkmEeiD7K0-g28vVA" name="modificar_estado_del_servicio_a_deprecado" guid="_IhGLwNkmEeiD7K0-g28vVA" presentationName="Modificar estado del servicio a Deprecado" superActivities="_DkKvQdiYEeiD7K0-g28vVA" linkToPredecessor="_OX2wgNk2EeiD7K0-g28vVA" mandatoryInput="_IhLEQNkmEeiD7K0-g28vVA" performedPrimarilyBy="_IhJ2ItkmEeiD7K0-g28vVA">
+      <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_SKYvkNiJEeiWxaPfbRKKAA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_IhGLwdkmEeiD7K0-g28vVA" name="notificar_disponibilidad_de_nuevo_servicio_a_consumidores" guid="_IhGLwdkmEeiD7K0-g28vVA" presentationName="Notificar disponibilidad de nuevo servicio a consumidores" superActivities="_DkKvQdiYEeiD7K0-g28vVA">
+      <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_d0m9MNiYEeiD7K0-g28vVA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_IhGLwtkmEeiD7K0-g28vVA" name="notificar_estado_deprecado_a_los_consumidores" guid="_IhGLwtkmEeiD7K0-g28vVA" presentationName="Notificar estado Deprecado a los consumidores" superActivities="_DkKvQdiYEeiD7K0-g28vVA" linkToPredecessor="_SUu58NkvEeiD7K0-g28vVA" performedPrimarilyBy="_IhJ2ItkmEeiD7K0-g28vVA">
+      <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_Ibx_cNiNEeiWxaPfbRKKAA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_IhGLw9kmEeiD7K0-g28vVA" name="realizar_ajustes_al_plan_de_jubilacin" guid="_IhGLw9kmEeiD7K0-g28vVA" presentationName="Realizar ajustes al plan de Jubilación" superActivities="_DkKvQdiYEeiD7K0-g28vVA" linkToPredecessor="_DbbOQNktEeiD7K0-g28vVA">
+      <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_ywfRYNfAEeiWxaPfbRKKAA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_IhGLxNkmEeiD7K0-g28vVA" name="reunion_de_divulgacion_a_los_consumidores" guid="_IhGLxNkmEeiD7K0-g28vVA" presentationName="Reunión de Divulgación a los Consumidores" superActivities="_DkKvQdiYEeiD7K0-g28vVA" linkToPredecessor="_i08EQNksEeiD7K0-g28vVA" additionallyPerformedBy="_IhJ2I9kmEeiD7K0-g28vVA" mandatoryInput="_IhLEQNkmEeiD7K0-g28vVA" performedPrimarilyBy="_IhJ2ItkmEeiD7K0-g28vVA">
+      <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_NasVENe_EeiWxaPfbRKKAA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_IhGy0NkmEeiD7K0-g28vVA" name="validar_duenos_tecnico_y_funcional" guid="_IhGy0NkmEeiD7K0-g28vVA" presentationName="Validar dueños Tecnico y Funcional" superActivities="_DkKvQdiYEeiD7K0-g28vVA" performedPrimarilyBy="_IhJ2IdkmEeiD7K0-g28vVA">
+      <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_CGoqANYWEeixjO0WOf6fUg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_IhJ2INkmEeiD7K0-g28vVA" name="dueno_tecnico" guid="_IhJ2INkmEeiD7K0-g28vVA" presentationName="Dueño Tecnico" isPlanned="false" superActivities="_DkKvQdiYEeiD7K0-g28vVA">
+      <Role href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_UFOPQNcCEeixjO0WOf6fUg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_IhJ2IdkmEeiD7K0-g28vVA" name="arquitecto_de_la_solucion" guid="_IhJ2IdkmEeiD7K0-g28vVA" presentationName="Arquitecto de la solución" isPlanned="false" superActivities="_DkKvQdiYEeiD7K0-g28vVA">
+      <Role href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_BXAj8NfDEeiWxaPfbRKKAA"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_IhJ2ItkmEeiD7K0-g28vVA" name="dueno_funcional" guid="_IhJ2ItkmEeiD7K0-g28vVA" presentationName="Dueño Funcional" isPlanned="false" superActivities="_DkKvQdiYEeiD7K0-g28vVA" modifies="_IhLEQNkmEeiD7K0-g28vVA">
+      <Role href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_MGCLINcCEeixjO0WOf6fUg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_IhJ2I9kmEeiD7K0-g28vVA" name="consumidor_del_servicio" guid="_IhJ2I9kmEeiD7K0-g28vVA" presentationName="Consumidor del Servicio" isPlanned="false" superActivities="_DkKvQdiYEeiD7K0-g28vVA">
+      <Role href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_qbBzoNcCEeixjO0WOf6fUg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_IhLEQNkmEeiD7K0-g28vVA" name="plan_de_jubilacion" guid="_IhLEQNkmEeiD7K0-g28vVA" presentationName="Plan de Jubilación" isPlanned="false" superActivities="_DkKvQdiYEeiD7K0-g28vVA">
+      <WorkProduct href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_Buk7ENYxEeixjO0WOf6fUg"/>
+    </processElements>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_jURhENkrEeiD7K0-g28vVA" guid="_jURhENkrEeiD7K0-g28vVA" pred="_IhFksNkmEeiD7K0-g28vVA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_kNiEUNkrEeiD7K0-g28vVA" guid="_kNiEUNkrEeiD7K0-g28vVA" pred="_IhFkstkmEeiD7K0-g28vVA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_hCkHsNksEeiD7K0-g28vVA" guid="_hCkHsNksEeiD7K0-g28vVA" pred="_IhFksdkmEeiD7K0-g28vVA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_hlZH8NksEeiD7K0-g28vVA" guid="_hlZH8NksEeiD7K0-g28vVA" pred="_IhEWkdkmEeiD7K0-g28vVA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_iEthMNksEeiD7K0-g28vVA" guid="_iEthMNksEeiD7K0-g28vVA" pred="_IhE9odkmEeiD7K0-g28vVA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_i08EQNksEeiD7K0-g28vVA" guid="_i08EQNksEeiD7K0-g28vVA" pred="_IhE9oNkmEeiD7K0-g28vVA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_DbbOQNktEeiD7K0-g28vVA" guid="_DbbOQNktEeiD7K0-g28vVA" pred="_IhGLxNkmEeiD7K0-g28vVA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_SUu58NkvEeiD7K0-g28vVA" guid="_SUu58NkvEeiD7K0-g28vVA" pred="_IhGLw9kmEeiD7K0-g28vVA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_OX2wgNk2EeiD7K0-g28vVA" guid="_OX2wgNk2EeiD7K0-g28vVA" pred="_IhGLw9kmEeiD7K0-g28vVA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_dF-x0Nk2EeiD7K0-g28vVA" guid="_dF-x0Nk2EeiD7K0-g28vVA" pred="_IhFks9kmEeiD7K0-g28vVA"/>
+    <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_0YFmYNk2EeiD7K0-g28vVA" guid="_0YFmYNk2EeiD7K0-g28vVA" pred="_IhGLwdkmEeiD7K0-g28vVA"/>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_DkKvQdiYEeiD7K0-g28vVA" name="jubilacion_de_servicios" guid="_DkKvQdiYEeiD7K0-g28vVA" presentationName="jubilacion_de_servicios" briefDescription="Proceso que permite realizar la jubilación de un servicio" breakdownElements="_IhDvgNkmEeiD7K0-g28vVA _IhEWkNkmEeiD7K0-g28vVA _IhEWkdkmEeiD7K0-g28vVA _IhE9oNkmEeiD7K0-g28vVA _IhE9odkmEeiD7K0-g28vVA _IhFksNkmEeiD7K0-g28vVA _IhFksdkmEeiD7K0-g28vVA _IhFkstkmEeiD7K0-g28vVA _IhFks9kmEeiD7K0-g28vVA _IhGLwNkmEeiD7K0-g28vVA _IhGLwdkmEeiD7K0-g28vVA _IhGLwtkmEeiD7K0-g28vVA _IhGLw9kmEeiD7K0-g28vVA _IhGLxNkmEeiD7K0-g28vVA _IhGy0NkmEeiD7K0-g28vVA _IhJ2INkmEeiD7K0-g28vVA _IhJ2IdkmEeiD7K0-g28vVA _IhJ2ItkmEeiD7K0-g28vVA _IhJ2I9kmEeiD7K0-g28vVA _IhLEQNkmEeiD7K0-g28vVA">
+      <presentation xmi:id="-Si-m556_gIBzLRmmRSvvUg" href="uma://-Si-m556_gIBzLRmmRSvvUg#-Si-m556_gIBzLRmmRSvvUg"/>
+      <defaultContext href="uma://_y62TUKVPEdmMZJIzZ1W7Pw#_ZVQ80OGNEdyp34pwdTOSVQ"/>
+      <validContext href="uma://_y62TUKVPEdmMZJIzZ1W7Pw#_ZVQ80OGNEdyp34pwdTOSVQ"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

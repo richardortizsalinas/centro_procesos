@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-I0Y1O7Q0D5SzZj_vGmxVhA" name=",_FFd9QNfEEeiWxaPfbRKKAA" guid="-I0Y1O7Q0D5SzZj_vGmxVhA" changeDate="2018-10-24T14:40:40.945-0500">
+  <mainDescription>Esta tarea hacer referencia a otro proceso. Al finalizar la ejecución del proceso de asignación de dueños funcional y&#xD;
+tecnico, se puede continuar con el proceso de Jubilación de Servicios.</mainDescription>
+  <keyConsiderations>Para poder ejecutar el proceso de Jubilación es necesario que el servicio tenga asignados los dueños funcional y tecnico,&#xD;
+dado que son ellos los dueños del proceso de Jubilación.</keyConsiderations>
+  <purpose>Asignar el dueño funcional y el dueño tecnico del servicio a jubilar.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

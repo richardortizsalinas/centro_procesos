@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-B-d2Wl0Vyk_-I-RwtKzhKQ" name="introduccion_centro_de_procesos,_lC260PVhEdyMdecrgpMbRg" guid="-B-d2Wl0Vyk_-I-RwtKzhKQ" changeDate="2018-11-07T14:19:20.821-0500">
+  <copyrightStatement href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_4kVeYOGBEdyp34pwdTOSVQ"/>
+  <mainDescription>&lt;br />&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;Para que? por que? para quien?&lt;map id=&quot;Map&quot; name=&quot;Map&quot;>&#xD;
+        &lt;area href=&quot;./../../../Procesos Sección Gobierno de Servicios/workproducts/product_backlog_68345C16.html&quot;&#xD;
+        shape=&quot;rect&quot; coords=&quot;62,96,168,174&quot; guid=&quot;_OZIPIOF8Edyp34pwdTOSVQ&quot; />&#xD;
+        &lt;area href=&quot;./../../../Procesos Sección Gobierno de Servicios/workproducts/sprint_backlog_7A5B8A37.html&quot;&#xD;
+        shape=&quot;rect&quot; coords=&quot;212,95,319,175&quot; guid=&quot;_Q5Ki8OF8Edyp34pwdTOSVQ&quot; />&#xD;
+        &lt;area&#xD;
+        href=&quot;./../../../Procesos Sección Gobierno de Servicios/tasks/7.realiza_contextualizacion_a_analistas_soa_C8FB7908.html&quot;&#xD;
+         shape=&quot;rect&quot; coords=&quot;234,-2,362,69&quot; guid=&quot;_oSM0AOF-Edyp34pwdTOSVQ&quot; />&#xD;
+        &lt;area&#xD;
+        href=&quot;./../../../Procesos Sección Gobierno de Servicios/workproducts/potentially_shippable_product_incremement_69E6418C.html&quot;&#xD;
+         shape=&quot;rect&quot; coords=&quot;607,73,756,196&quot; guid=&quot;__uNYkPVgEdyMdecrgpMbRg&quot; />&#xD;
+    &lt;/map>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

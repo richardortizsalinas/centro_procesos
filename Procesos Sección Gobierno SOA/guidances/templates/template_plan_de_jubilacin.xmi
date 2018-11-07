@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b0TEC4qLSUH9_24LzR7MFw" name="template_plan_de_jubilacin,__MRjANfIEeiWxaPfbRKKAA" guid="-b0TEC4qLSUH9_24LzR7MFw" changeDate="2018-10-24T15:13:02.159-0500">
+  <mainDescription>Esta es la plantilla para el plan de jubilación</mainDescription>
+  <attachments>resources/plantilla_plan_jubilación_v1.0.0.docx</attachments>
+</org.eclipse.epf.uma:GuidanceDescription>
