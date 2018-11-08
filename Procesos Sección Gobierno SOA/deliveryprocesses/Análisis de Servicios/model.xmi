@@ -33,7 +33,7 @@
     <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_uPcfl70bEeiaRZinmuc1jA" name="2.modela_procesos_a_implementar" guid="_uPcfl70bEeiaRZinmuc1jA" presentationName="Modela procesos a implementar" superActivities="_r5QrUb0bEeiaRZinmuc1jA" linkToPredecessor="_fAUNgb0cEeiaRZinmuc1jA" performedPrimarilyBy="_uPdtsb0bEeiaRZinmuc1jA">
       <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_btIuEF8LEd22Gu98eFOlrQ"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_uPcfmL0bEeiaRZinmuc1jA" name="3.entendimiento_de_necesidades_y_alcance_del_proyecto" guid="_uPcfmL0bEeiaRZinmuc1jA" presentationName="Entendimiento de necesidades y alcance del proyecto" superActivities="_r5QrUb0bEeiaRZinmuc1jA" linkToPredecessor="_fXpvcb0cEeiaRZinmuc1jA" mandatoryInput="_uPdtsr0bEeiaRZinmuc1jA" performedPrimarilyBy="_uPdGpr0bEeiaRZinmuc1jA">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_uPcfmL0bEeiaRZinmuc1jA" name="3.entendimiento_de_necesidades_y_alcance_del_proyecto" guid="_uPcfmL0bEeiaRZinmuc1jA" presentationName="Entendimiento de necesidades y alcance del proyecto" superActivities="_r5QrUb0bEeiaRZinmuc1jA" linkToPredecessor="_fXpvcb0cEeiaRZinmuc1jA" performedPrimarilyBy="_uPdGpr0bEeiaRZinmuc1jA">
       <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_RunHEF8ZEd22Gu98eFOlrQ"/>
     </processElements>
     <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_uPcfmb0bEeiaRZinmuc1jA" name="4.construye_draft_arquitectura" guid="_uPcfmb0bEeiaRZinmuc1jA" presentationName="Construye Draft Arquitectura" superActivities="_r5QrUb0bEeiaRZinmuc1jA" linkToPredecessor="_fuwn4L0cEeiaRZinmuc1jA" performedPrimarilyBy="_uPdGpr0bEeiaRZinmuc1jA">
@@ -45,7 +45,7 @@
     <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_uPdGob0bEeiaRZinmuc1jA" name="6.consulta_servicios_en_wsrr" guid="_uPdGob0bEeiaRZinmuc1jA" presentationName="Consulta servicios en WSRR" superActivities="_r5QrUb0bEeiaRZinmuc1jA" linkToPredecessor="_gjepYL0cEeiaRZinmuc1jA" performedPrimarilyBy="_uPdGpr0bEeiaRZinmuc1jA">
       <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_i_fkQOF-Edyp34pwdTOSVQ"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_uPdGor0bEeiaRZinmuc1jA" name="7.realiza_contextualizacion_a_analistas_soa" guid="_uPdGor0bEeiaRZinmuc1jA" presentationName="Realiza contextualización a analistas SOA" superActivities="_r5QrUb0bEeiaRZinmuc1jA" additionallyPerformedBy="_uPdtsL0bEeiaRZinmuc1jA" mandatoryInput="_uPdts70bEeiaRZinmuc1jA" output="_uPdts70bEeiaRZinmuc1jA _uPdttL0bEeiaRZinmuc1jA _uPdttb0bEeiaRZinmuc1jA" performedPrimarilyBy="_uPdGpr0bEeiaRZinmuc1jA">
+    <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_uPdGor0bEeiaRZinmuc1jA" name="7.realiza_contextualizacion_a_analistas_soa" guid="_uPdGor0bEeiaRZinmuc1jA" presentationName="Realiza contextualización a analistas SOA" superActivities="_r5QrUb0bEeiaRZinmuc1jA" additionallyPerformedBy="_uPdtsL0bEeiaRZinmuc1jA" performedPrimarilyBy="_uPdGpr0bEeiaRZinmuc1jA">
       <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_oSM0AOF-Edyp34pwdTOSVQ"/>
     </processElements>
     <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_uPdGo70bEeiaRZinmuc1jA" name="8.evalua_requerimientos_funcionales" guid="_uPdGo70bEeiaRZinmuc1jA" presentationName="Evalúa requerimientos funcionales" superActivities="_r5QrUb0bEeiaRZinmuc1jA" linkToPredecessor="_j39R4L0cEeiaRZinmuc1jA" performedPrimarilyBy="_uPdtsL0bEeiaRZinmuc1jA">
@@ -54,29 +54,17 @@
     <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_uPdGpL0bEeiaRZinmuc1jA" name="9.verificar_existencia_de_servicios_en_wsrr" guid="_uPdGpL0bEeiaRZinmuc1jA" presentationName="Verificar existencia de servicios en WSRR" superActivities="_r5QrUb0bEeiaRZinmuc1jA" linkToPredecessor="_kNW6Ib0cEeiaRZinmuc1jA" performedPrimarilyBy="_uPdtsL0bEeiaRZinmuc1jA">
       <Task href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_1ii3kL0MEeiaRZinmuc1jA"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_uPdGpb0bEeiaRZinmuc1jA" name="analista_negocio" guid="_uPdGpb0bEeiaRZinmuc1jA" presentationName="Analista de Negocio" isPlanned="false" superActivities="_r5QrUb0bEeiaRZinmuc1jA" responsibleFor="_uPdtsr0bEeiaRZinmuc1jA">
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_uPdGpb0bEeiaRZinmuc1jA" name="analista_negocio" guid="_uPdGpb0bEeiaRZinmuc1jA" presentationName="Analista de Negocio" isPlanned="false" superActivities="_r5QrUb0bEeiaRZinmuc1jA">
       <Role href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_QcnRMOF5Edyp34pwdTOSVQ"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_uPdGpr0bEeiaRZinmuc1jA" name="arquitecto_de_soluciones" guid="_uPdGpr0bEeiaRZinmuc1jA" presentationName="Arquitecto de Soluciones" isPlanned="false" superActivities="_r5QrUb0bEeiaRZinmuc1jA" modifies="_uPdts70bEeiaRZinmuc1jA _uPdttL0bEeiaRZinmuc1jA _uPdttb0bEeiaRZinmuc1jA">
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_uPdGpr0bEeiaRZinmuc1jA" name="arquitecto_de_soluciones" guid="_uPdGpr0bEeiaRZinmuc1jA" presentationName="Arquitecto de Soluciones" isPlanned="false" superActivities="_r5QrUb0bEeiaRZinmuc1jA">
       <Role href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_Bw-twOF6Edyp34pwdTOSVQ"/>
     </processElements>
     <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_uPdtsL0bEeiaRZinmuc1jA" name="analista_soa" guid="_uPdtsL0bEeiaRZinmuc1jA" presentationName="Analista SOA" isPlanned="false" superActivities="_r5QrUb0bEeiaRZinmuc1jA">
       <Role href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_R1K5ILzgEeiaRZinmuc1jA"/>
     </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_uPdtsb0bEeiaRZinmuc1jA" name="analista_de_proceso" guid="_uPdtsb0bEeiaRZinmuc1jA" presentationName="Analista de proceso" isPlanned="false" superActivities="_r5QrUb0bEeiaRZinmuc1jA" responsibleFor="_uPdttL0bEeiaRZinmuc1jA">
+    <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_uPdtsb0bEeiaRZinmuc1jA" name="analista_de_proceso" guid="_uPdtsb0bEeiaRZinmuc1jA" presentationName="Analista de proceso" isPlanned="false" superActivities="_r5QrUb0bEeiaRZinmuc1jA">
       <Role href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_O65KUOF6Edyp34pwdTOSVQ"/>
-    </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_uPdtsr0bEeiaRZinmuc1jA" name="product_backlog" guid="_uPdtsr0bEeiaRZinmuc1jA" presentationName="Product Backlog" isPlanned="false" superActivities="_r5QrUb0bEeiaRZinmuc1jA">
-      <WorkProduct href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_OZIPIOF8Edyp34pwdTOSVQ"/>
-    </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_uPdts70bEeiaRZinmuc1jA" name="taskboard" guid="_uPdts70bEeiaRZinmuc1jA" presentationName="Task Board" isPlanned="false" superActivities="_r5QrUb0bEeiaRZinmuc1jA">
-      <WorkProduct href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_rU4H4F8fEd22Gu98eFOlrQ"/>
-    </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_uPdttL0bEeiaRZinmuc1jA" name="sprint_backlog" guid="_uPdttL0bEeiaRZinmuc1jA" presentationName="Sprint Backlog" isPlanned="false" superActivities="_r5QrUb0bEeiaRZinmuc1jA">
-      <WorkProduct href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_Q5Ki8OF8Edyp34pwdTOSVQ"/>
-    </processElements>
-    <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_uPdttb0bEeiaRZinmuc1jA" name="sprint_burndown_chart" guid="_uPdttb0bEeiaRZinmuc1jA" presentationName="Sprint Burndown Chart " isPlanned="false" superActivities="_r5QrUb0bEeiaRZinmuc1jA">
-      <WorkProduct href="uma://_6Ab_EOF4Edyp34pwdTOSVQ#_YzmSIF8sEd22Gu98eFOlrQ"/>
     </processElements>
     <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_fAUNgb0cEeiaRZinmuc1jA" guid="_fAUNgb0cEeiaRZinmuc1jA" pred="_uPcfkL0bEeiaRZinmuc1jA"/>
     <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_fXpvcb0cEeiaRZinmuc1jA" guid="_fXpvcb0cEeiaRZinmuc1jA" pred="_uPcfl70bEeiaRZinmuc1jA"/>
@@ -87,10 +75,10 @@
     <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_kNW6Ib0cEeiaRZinmuc1jA" guid="_kNW6Ib0cEeiaRZinmuc1jA" pred="_uPdGo70bEeiaRZinmuc1jA"/>
     <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_k0RJIb0cEeiaRZinmuc1jA" guid="_k0RJIb0cEeiaRZinmuc1jA" pred="_uPdGpL0bEeiaRZinmuc1jA"/>
     <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_lKURob0cEeiaRZinmuc1jA" guid="_lKURob0cEeiaRZinmuc1jA" pred="_uPcfk70bEeiaRZinmuc1jA"/>
-    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_r5QrUb0bEeiaRZinmuc1jA" name="Análisis de Servicios" guid="_r5QrUb0bEeiaRZinmuc1jA" presentationName="Análisis de Servicios" breakdownElements="_uPcfkL0bEeiaRZinmuc1jA _uPcfkb0bEeiaRZinmuc1jA _uPcfkr0bEeiaRZinmuc1jA _uPcfk70bEeiaRZinmuc1jA _uPcflL0bEeiaRZinmuc1jA _uPcflb0bEeiaRZinmuc1jA _uPcflr0bEeiaRZinmuc1jA _uPcfl70bEeiaRZinmuc1jA _uPcfmL0bEeiaRZinmuc1jA _uPcfmb0bEeiaRZinmuc1jA _uPdGoL0bEeiaRZinmuc1jA _uPdGob0bEeiaRZinmuc1jA _uPdGor0bEeiaRZinmuc1jA _uPdGo70bEeiaRZinmuc1jA _uPdGpL0bEeiaRZinmuc1jA _uPdGpb0bEeiaRZinmuc1jA _uPdGpr0bEeiaRZinmuc1jA _uPdtsL0bEeiaRZinmuc1jA _uPdtsb0bEeiaRZinmuc1jA _uPdtsr0bEeiaRZinmuc1jA _uPdts70bEeiaRZinmuc1jA _uPdttL0bEeiaRZinmuc1jA _uPdttb0bEeiaRZinmuc1jA _HXosAb0cEeiaRZinmuc1jA">
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_r5QrUb0bEeiaRZinmuc1jA" name="Análisis de Servicios" guid="_r5QrUb0bEeiaRZinmuc1jA" presentationName="Análisis de Servicios" breakdownElements="_uPcfkL0bEeiaRZinmuc1jA _uPcfkb0bEeiaRZinmuc1jA _uPcfkr0bEeiaRZinmuc1jA _uPcfk70bEeiaRZinmuc1jA _uPcflL0bEeiaRZinmuc1jA _uPcflb0bEeiaRZinmuc1jA _uPcflr0bEeiaRZinmuc1jA _uPcfl70bEeiaRZinmuc1jA _uPcfmL0bEeiaRZinmuc1jA _uPcfmb0bEeiaRZinmuc1jA _uPdGoL0bEeiaRZinmuc1jA _uPdGob0bEeiaRZinmuc1jA _uPdGor0bEeiaRZinmuc1jA _uPdGo70bEeiaRZinmuc1jA _uPdGpL0bEeiaRZinmuc1jA _uPdGpb0bEeiaRZinmuc1jA _uPdGpr0bEeiaRZinmuc1jA _uPdtsL0bEeiaRZinmuc1jA _uPdtsb0bEeiaRZinmuc1jA _HXosAb0cEeiaRZinmuc1jA">
       <presentation xmi:id="-ui0uCYA3kxOHo_khwyLIWA" href="uma://-ui0uCYA3kxOHo_khwyLIWA#-ui0uCYA3kxOHo_khwyLIWA"/>
-      <defaultContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_ZVQ80OGNEdyp34pwdTOSVQ"/>
-      <validContext href="uma://_rnsX4OF4Edyp34pwdTOSVQ#_ZVQ80OGNEdyp34pwdTOSVQ"/>
+      <defaultContext href="uma://_y62TUKVPEdmMZJIzZ1W7Pw#_ZVQ80OGNEdyp34pwdTOSVQ"/>
+      <validContext href="uma://_y62TUKVPEdmMZJIzZ1W7Pw#_ZVQ80OGNEdyp34pwdTOSVQ"/>
     </process>
   </org.eclipse.epf.uma:ProcessComponent>
 </xmi:XMI>

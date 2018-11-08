@@ -7,7 +7,6 @@
     <subManagers xmi:id="_Dm7IUNiYEeiD7K0-g28vVA" href="uma://_DkKvQNiYEeiD7K0-g28vVA#_Dm7IUNiYEeiD7K0-g28vVA"/>
     <resourceDescriptors xmi:id="_SCv2ouF7Edyp34pwdTOSVQ" id="-u_0D0nwGoZhpANLeqrq14A" uri="roles/analista_de_proceso.xmi"/>
     <resourceDescriptors xmi:id="_VuLmkeF7Edyp34pwdTOSVQ" id="-e9FxENZuCFr7WkungxFv0Q" uri="guidances/guidelines/scrum_of_scrums.xmi"/>
-    <resourceDescriptors xmi:id="_JIsokOGCEdyp34pwdTOSVQ" id="-v5-z0Dm_JF0P2xtKd0FDrA" uri="workproducts/product_backlog.xmi"/>
     <resourceDescriptors xmi:id="_RWaQ4eGCEdyp34pwdTOSVQ" id="-_aNvcFLkG6dHmKhaz93BwA" uri="guidances/supportingmaterials/scrum_copyright.xmi"/>
     <resourceDescriptors xmi:id="_C3NVAeGFEdyp34pwdTOSVQ" id="-OUAVEKu-MpijImO-oy53Rg" uri="customcategories/procesos_seccion_gobierno_de_servicios_tree.xmi"/>
     <resourceDescriptors xmi:id="_MDvQYOvVEdyEBJO-n5l0YA" id="--OmeeCdOSH1ki1_i9TN0kg" uri="roles/analista_negocio.xmi"/>
@@ -15,12 +14,9 @@
     <resourceDescriptors xmi:id="_J5sZUO4HEdyKhak5q-de9w" id="-2Wj3V9GSZ2lAtr6E5xISGQ" uri="tasks/4.construye_draft_arquitectura.xmi"/>
     <resourceDescriptors xmi:id="_BANase4IEdyKhak5q-de9w" id="-pG2ESbyFiJiYPp8g3_H-Ow" uri="tasks/6.consulta_servicios_en_wsrr.xmi"/>
     <resourceDescriptors xmi:id="_EM1SQO4JEdyKhak5q-de9w" id="-bGl4WDpeag1duq9jSWKwLg" uri="tasks/7.realiza_contextualizacion_a_analistas_soa.xmi"/>
-    <resourceDescriptors xmi:id="_tu9GEfVSEdyMdecrgpMbRg" id="-N_A3a4KFML6T529HCXOO8w" uri="workproducts/sprint_backlog.xmi"/>
     <resourceDescriptors xmi:id="_tyh-gPVSEdyMdecrgpMbRg" id="-rfXDg30uLSggSmzHYCYVlg" uri="guidances/examples/example_product_backlog.xmi"/>
     <resourceDescriptors xmi:id="_Z5pLsPVWEdyMdecrgpMbRg" id="-xohW6akCXeAm21kFxbyPgA" uri="tasks/5.identifica_servicios_requeridos.xmi"/>
     <resourceDescriptors xmi:id="_i9-cgPViEdyMdecrgpMbRg" id="-B-d2Wl0Vyk_-I-RwtKzhKQ" uri="guidances/supportingmaterials/introduccion_centro_de_procesos.xmi"/>
-    <resourceDescriptors xmi:id="_R8M2MPVlEdyMdecrgpMbRg" id="-r4CP_1w3uk0ClgSnUrm80w" uri="workproducts/potentially_shippable_product_incremement.xmi"/>
-    <resourceDescriptors xmi:id="_zU2gIPVpEdyJbYuqG3X5Ag" id="-f7PDqWbPWJ4XP9HiP8IVKQ" uri="workproducts/release_burndown_chart.xmi"/>
     <resourceDescriptors xmi:id="_hhPfIPVqEdyJbYuqG3X5Ag" id="-KkrHQnR4XqgdNpWEvfFEtw" uri="guidances/examples/alternative_release_burndown_chart.xmi"/>
     <resourceDescriptors xmi:id="_jFCW0Vp4Ed2BQt1093tw4A" id="-JNLDOZ4BSGnyspLdCslHEA" uri="guidances/supportingmaterials/eclipse_copyright.xmi"/>
     <resourceDescriptors xmi:id="_wSDQwF5UEd22Gu98eFOlrQ" id="-DbU1fL11htQSZHU3Epp8DQ" uri="guidances/termdefinitions/burndown_chart.xmi"/>
@@ -55,9 +51,7 @@
     <resourceDescriptors xmi:id="_QYVQoV8ZEd22Gu98eFOlrQ" id="-zKwBZtjJMczpeWxduDoL4A" uri="guidances/guidelines/prioritizing_the_backlog.xmi"/>
     <resourceDescriptors xmi:id="_QYVQol8ZEd22Gu98eFOlrQ" id="-_17L09AWhCtpcfaV1O_oIA" uri="tasks/2.modela_procesos_a_implementar.xmi"/>
     <resourceDescriptors xmi:id="_n0Z8sV8dEd22Gu98eFOlrQ" id="-NrSTjiuzDnfEiZxA7N_tFA" uri="tasks/3.entendimiento_de_necesidades_y_alcance_del_proyecto.xmi"/>
-    <resourceDescriptors xmi:id="_XrI2QV8hEd22Gu98eFOlrQ" id="-JGaSKq8Cd3WrAqkPLTUUGg" uri="workproducts/taskboard.xmi"/>
     <resourceDescriptors xmi:id="_OcNAgV8sEd22Gu98eFOlrQ" id="-3AgWsgStwa4K2S5b_pS3jA" uri="guidances/templates/burndown_chart.xmi"/>
-    <resourceDescriptors xmi:id="_vnxNgV8sEd22Gu98eFOlrQ" id="-EQ9gGoEO7QfWA_0iXzILuA" uri="workproducts/sprint_burndown_chart.xmi"/>
     <resourceDescriptors xmi:id="_QvXKELxQEeiaRZinmuc1jA" id="_Qux7QLxQEeiaRZinmuc1jA" uri="deliveryprocesses/Diseño%20de%20Servicios/model.xmi"/>
     <resourceDescriptors xmi:id="_kSgVYbxXEeiaRZinmuc1jA" id="_kSJJALxXEeiaRZinmuc1jA" uri="deliveryprocesses/Modelo%20Operativo/model.xmi"/>
     <resourceDescriptors xmi:id="_IMOMcLzhEeiaRZinmuc1jA" id="-ZUBSXzRtGSVIy6vVI1SfkQ" uri="roles/analista_soa.xmi"/>
@@ -68,7 +62,6 @@
     <resourceDescriptors xmi:id="_mGofAL0TEeiaRZinmuc1jA" id="-oQet4rOJJvkC7V4t-2o-gw" uri="tasks/12.presenta_resultado_modelamiento.xmi"/>
     <resourceDescriptors xmi:id="_XwSkML0WEeiaRZinmuc1jA" id="-VEoqinryYfe-PvjO1lg0kQ" uri="tasks/14.elabora_documentacin_funcional_dsdggsoa.xmi"/>
     <resourceDescriptors xmi:id="_r51TEL0bEeiaRZinmuc1jA" id="_r5QrUL0bEeiaRZinmuc1jA" uri="deliveryprocesses/Análisis%20de%20Servicios/model.xmi"/>
-    <resourceDescriptors xmi:id="_uG55sM5VEeixjO0WOf6fUg" id="-e0kUsvUiMyis4GnReQp1dQ" uri="disciplines/jubilacion_de_servicios.xmi"/>
     <resourceDescriptors xmi:id="_U7ZwkNYWEeixjO0WOf6fUg" id="-D-SQZH0TmNQGOIZJUhHhIQ" uri="tasks/establecer_motivo_para_realizar_la_jubilacin.xmi"/>
     <resourceDescriptors xmi:id="_U7i6gNYWEeixjO0WOf6fUg" id="-PXVLAZKJehMbANOPT54xcQ" uri="tasks/validar_duenos_tecnico_y_funcional.xmi"/>
     <resourceDescriptors xmi:id="_M16b4NYxEeixjO0WOf6fUg" id="-yuBB0Is8oQykG9ZwRgbJpA" uri="tasks/generar_listado_de_consumidores_del_servicio_a_jubilar.xmi"/>
@@ -88,30 +81,35 @@
     <resourceDescriptors xmi:id="_LeFNoNifEeiD7K0-g28vVA" id="-MwGMiIbBLlJZeDAVy9Bz6w" uri="tasks/notificar_disponibilidad_de_nuevo_servicio_a_consumidores.xmi"/>
     <resourceDescriptors xmi:id="_LeSB8NifEeiD7K0-g28vVA" id="-f6z6jmFPX8Rt6RSSCXvtuQ" uri="tasks/generar_notificacion_de_jubilacion_proxima_a_ejecutarse.xmi"/>
     <resourceDescriptors xmi:id="_xm9pMNifEeiD7K0-g28vVA" id="-gewEZdAMQjDWS3oGP-sbug" uri="tasks/ejecutar_jubilacion_del_servicio.xmi"/>
+    <resourceDescriptors xmi:id="_Z6bgkONiEei3RvFNXnqpRQ" id="-m50hsLg6lHmyQBSvVqd3QA" uri="disciplines/jubilacion_de_servicios.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_6Ab_EOF4Edyp34pwdTOSVQ" name="Procesos Sección Gobierno SOA" guid="_6Ab_EOF4Edyp34pwdTOSVQ" briefDescription="Scrum Plug-In" changeDate="2018-11-07T16:26:33.081-0500">
     <methodElementProperty xmi:id="_zHPUQOLTEei3RvFNXnqpRQ" name="me_edited" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_EeF4Edyp34pwdTOSVQ" name="Content" guid="_6Ab_EeF4Edyp34pwdTOSVQ">
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_EuF4Edyp34pwdTOSVQ" name="Categories" guid="_6Ab_EuF4Edyp34pwdTOSVQ">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_E-F4Edyp34pwdTOSVQ" name="Domains" guid="_6Ab_E-F4Edyp34pwdTOSVQ">
-          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_HX3tEN68EeiQKOcZo_8itQ" name="gobierno_soa_work_products" guid="_HX3tEN68EeiQKOcZo_8itQ" presentationName="Gobierno SOA Work Products">
+          <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_HX3tEN68EeiQKOcZo_8itQ" name="work_products_gobierno_soa" guid="_HX3tEN68EeiQKOcZo_8itQ" presentationName="Work Products Gobierno SOA ">
             <methodElementProperty xmi:id="_KpkuYN68EeiQKOcZo_8itQ" name="me_edited" value="true"/>
-            <subdomains xmi:id="_PFkYkN68EeiQKOcZo_8itQ" name="jubilacion_de_servicios" guid="_PFkYkN68EeiQKOcZo_8itQ" presentationName="Jubilación de servicios" workProducts="_Buk7ENYxEeixjO0WOf6fUg">
+            <subdomains xmi:id="_PFkYkN68EeiQKOcZo_8itQ" name="work_products_jubilacion_de_servicios" guid="_PFkYkN68EeiQKOcZo_8itQ" presentationName="Work Products Jubilación de servicios" workProducts="_Buk7ENYxEeixjO0WOf6fUg">
               <methodElementProperty xmi:id="_PHiHcN68EeiQKOcZo_8itQ" name="me_edited" value="true"/>
             </subdomains>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_FOF4Edyp34pwdTOSVQ" name="Disciplines" guid="_6Ab_FOF4Edyp34pwdTOSVQ">
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_zufCsM5UEeixjO0WOf6fUg" name="jubilacion_de_servicios" guid="_zufCsM5UEeixjO0WOf6fUg" presentationName="Jubilacion de Servicios" tasks="_Npf8wM5hEeixjO0WOf6fUg _CGoqANYWEeixjO0WOf6fUg _9rAUwNYsEeixjO0WOf6fUg _qvxCsNZAEeixjO0WOf6fUg _cY6vUNb4EeixjO0WOf6fUg _Z2S5QNZCEeixjO0WOf6fUg _LUj6cNbMEeixjO0WOf6fUg _NasVENe_EeiWxaPfbRKKAA _FFd9QNfEEeiWxaPfbRKKAA _SKYvkNiJEeiWxaPfbRKKAA _Ibx_cNiNEeiWxaPfbRKKAA _nUaYINibEeiD7K0-g28vVA _gIEJYNifEeiD7K0-g28vVA">
-            <methodElementProperty xmi:id="_uGmXsM5VEeixjO0WOf6fUg" name="me_edited" value="true"/>
-            <presentation xmi:id="-e0kUsvUiMyis4GnReQp1dQ" href="uma://-e0kUsvUiMyis4GnReQp1dQ#-e0kUsvUiMyis4GnReQp1dQ"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_G9cSIONiEei3RvFNXnqpRQ" name="disciplines_gobierno_soa" guid="_G9cSIONiEei3RvFNXnqpRQ" presentationName="Disciplines Gobierno SOA" disciplines="_YRnvsONiEei3RvFNXnqpRQ">
+            <methodElementProperty xmi:id="_dMnDAONiEei3RvFNXnqpRQ" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_YRnvsONiEei3RvFNXnqpRQ" name="jubilacion_de_servicios" guid="_YRnvsONiEei3RvFNXnqpRQ" presentationName="Jubilacion de Servicios" tasks="_Npf8wM5hEeixjO0WOf6fUg _CGoqANYWEeixjO0WOf6fUg _9rAUwNYsEeixjO0WOf6fUg _qvxCsNZAEeixjO0WOf6fUg _cY6vUNb4EeixjO0WOf6fUg _Z2S5QNZCEeixjO0WOf6fUg _LUj6cNbMEeixjO0WOf6fUg _NasVENe_EeiWxaPfbRKKAA _FFd9QNfEEeiWxaPfbRKKAA _SKYvkNiJEeiWxaPfbRKKAA _Ibx_cNiNEeiWxaPfbRKKAA _nUaYINibEeiD7K0-g28vVA _gIEJYNifEeiD7K0-g28vVA">
+            <methodElementProperty xmi:id="_ZDClkONiEei3RvFNXnqpRQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-m50hsLg6lHmyQBSvVqd3QA" href="uma://-m50hsLg6lHmyQBSvVqd3QA#-m50hsLg6lHmyQBSvVqd3QA"/>
+            <referenceWorkflows href="uma://_DkKvQNiYEeiD7K0-g28vVA#_DkKvQdiYEeiD7K0-g28vVA"/>
           </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_FeF4Edyp34pwdTOSVQ" name="RoleSets" guid="_6Ab_FeF4Edyp34pwdTOSVQ">
           <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_DOflUOLMEei3RvFNXnqpRQ" name="roles_gobierno_soa" guid="_DOflUOLMEei3RvFNXnqpRQ" presentationName="Roles Gobierno SOA" roleSets="_ExgQMOLMEei3RvFNXnqpRQ">
             <methodElementProperty xmi:id="_GXXogOLREei3RvFNXnqpRQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_ExgQMOLMEei3RvFNXnqpRQ" name="roles_jubilacion_de_servicios2" guid="_ExgQMOLMEei3RvFNXnqpRQ" presentationName="Roles" roles="_BXAj8NfDEeiWxaPfbRKKAA _MGCLINcCEeixjO0WOf6fUg _UFOPQNcCEeixjO0WOf6fUg">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_ExgQMOLMEei3RvFNXnqpRQ" name="roles_jubilacion_de_servicios" guid="_ExgQMOLMEei3RvFNXnqpRQ" presentationName="Roles" roles="_BXAj8NfDEeiWxaPfbRKKAA _MGCLINcCEeixjO0WOf6fUg _UFOPQNcCEeixjO0WOf6fUg">
             <methodElementProperty xmi:id="_F6hGsOLMEei3RvFNXnqpRQ" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
@@ -122,17 +120,13 @@
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_GuF4Edyp34pwdTOSVQ" name="Hidden" guid="_6Ab_GuF4Edyp34pwdTOSVQ">
             <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_6Ab_G-F4Edyp34pwdTOSVQ" name="Custom Categories" guid="_6Ab_G-F4Edyp34pwdTOSVQ" categorizedElements="_Om8IAOGEEdyp34pwdTOSVQ"/>
           </childPackages>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Om8IAOGEEdyp34pwdTOSVQ" name="procesos_seccion_gobierno_de_servicios_tree" guid="_Om8IAOGEEdyp34pwdTOSVQ" presentationName="Procesos Sección Gobierno de Servicios_tree" categorizedElements="_lC260PVhEdyMdecrgpMbRg _zRGGgLxVEeiaRZinmuc1jA _HX3tEN68EeiQKOcZo_8itQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Om8IAOGEEdyp34pwdTOSVQ" name="procesos_seccion_gobierno_de_servicios_tree" guid="_Om8IAOGEEdyp34pwdTOSVQ" presentationName="Procesos Sección Gobierno de Servicios_tree" categorizedElements="_lC260PVhEdyMdecrgpMbRg _zRGGgLxVEeiaRZinmuc1jA">
             <methodElementProperty xmi:id="_ZMWAcOGEEdyp34pwdTOSVQ" name="PUBLISH_CATEGORY" value="true"/>
             <methodElementProperty xmi:id="_pOJDkLxEEeiaRZinmuc1jA" name="me_edited" value="true"/>
             <presentation xmi:id="-OUAVEKu-MpijImO-oy53Rg" href="uma://-OUAVEKu-MpijImO-oy53Rg#-OUAVEKu-MpijImO-oy53Rg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_zRGGgLxVEeiaRZinmuc1jA" name="procesos" guid="_zRGGgLxVEeiaRZinmuc1jA" presentationName="Procesos" nodeicon="customcategories/resources/gearwheels.png">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_zRGGgLxVEeiaRZinmuc1jA" name="procesos" guid="_zRGGgLxVEeiaRZinmuc1jA" presentationName="Procesos" nodeicon="customcategories/resources/gearwheels.png" categorizedElements="_E_dhoM5dEeixjO0WOf6fUg _52V8MLxVEeiaRZinmuc1jA _D5T18LxWEeiaRZinmuc1jA">
             <methodElementProperty xmi:id="_AIDK0LxWEeiaRZinmuc1jA" name="me_edited" value="true"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_52V8MLxVEeiaRZinmuc1jA"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_D5T18LxWEeiaRZinmuc1jA"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_E_dhoM5dEeixjO0WOf6fUg"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_DkKvQNiYEeiD7K0-g28vVA#_DkKvQdiYEeiD7K0-g28vVA"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_52V8MLxVEeiaRZinmuc1jA" name="analisis_de_servicios" guid="_52V8MLxVEeiaRZinmuc1jA" presentationName="Análisis de Servicios" nodeicon="customcategories/resources/gearwheel.png">
             <methodElementProperty xmi:id="_AH9EMLxWEeiaRZinmuc1jA" name="me_edited" value="true"/>
@@ -144,12 +138,16 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_E_dhoM5dEeixjO0WOf6fUg" name="jubilacion_de_servicios" guid="_E_dhoM5dEeixjO0WOf6fUg" presentationName="Jubilación de servicios" nodeicon="customcategories/resources/gearwheel.png">
             <methodElementProperty xmi:id="_K2j34M5dEeixjO0WOf6fUg" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_DkKvQNiYEeiD7K0-g28vVA#_DkKvQdiYEeiD7K0-g28vVA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:RoleSet" href="#_ExgQMOLMEei3RvFNXnqpRQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Domain" href="#_PFkYkN68EeiQKOcZo_8itQ"/>
           </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_HOF4Edyp34pwdTOSVQ" name="CoreContent" guid="_6Ab_HOF4Edyp34pwdTOSVQ">
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Arzq4OF5Edyp34pwdTOSVQ" name="Gobierno SOA" guid="_Arzq4OF5Edyp34pwdTOSVQ" briefDescription="Scrum">
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_QcnRMOF5Edyp34pwdTOSVQ" name="analista_negocio" guid="_QcnRMOF5Edyp34pwdTOSVQ" presentationName="Analista de Negocio" briefDescription="El Analista de Negocio es el encargado de expresar las necesidades del negocio a traves de historias de usuario.&#xD;&#xA;The Product Owner represents the interests of all stakeholders, defines the features of the product and prioritizes the Product Backlog." responsibleFor="_OZIPIOF8Edyp34pwdTOSVQ">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Arzq4OF5Edyp34pwdTOSVQ" name="gobierno_soa" guid="_Arzq4OF5Edyp34pwdTOSVQ" presentationName="gobierno_soa" briefDescription="Contenido transversal a todos los procesos">
+          <methodElementProperty xmi:id="_Gk7WYONgEei3RvFNXnqpRQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_QcnRMOF5Edyp34pwdTOSVQ" name="analista_negocio" guid="_QcnRMOF5Edyp34pwdTOSVQ" presentationName="Analista de Negocio" briefDescription="El Analista de Negocio es el encargado de expresar las necesidades del negocio a traves de historias de usuario.&#xD;&#xA;The Product Owner represents the interests of all stakeholders, defines the features of the product and prioritizes the Product Backlog.">
             <methodElementProperty xmi:id="_0S-cALzeEeiaRZinmuc1jA" name="me_edited" value="true"/>
             <presentation xmi:id="--OmeeCdOSH1ki1_i9TN0kg" href="uma://--OmeeCdOSH1ki1_i9TN0kg#--OmeeCdOSH1ki1_i9TN0kg"/>
           </contentElements>
@@ -157,19 +155,12 @@
             <methodElementProperty xmi:id="_INwdgLzhEeiaRZinmuc1jA" name="me_edited" value="true"/>
             <presentation xmi:id="-yuXxE_O0V_WcpgWeUmX8fQ" href="uma://-yuXxE_O0V_WcpgWeUmX8fQ#-yuXxE_O0V_WcpgWeUmX8fQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_O65KUOF6Edyp34pwdTOSVQ" name="analista_de_proceso" guid="_O65KUOF6Edyp34pwdTOSVQ" presentationName="Analista de proceso" briefDescription="The Scrum Team builds the product that the customer is going to consume: the software or website, for example. The team in Scrum is &quot;cross-functional&quot; - it includes all the expertise necessary to deliver the potentially shippable product each Sprint - and it is &quot;self-organizing&quot;, with a very high degree of autonomy and accountability." responsibleFor="__uNYkPVgEdyMdecrgpMbRg _tFw9IPVoEdyJbYuqG3X5Ag _Q5Ki8OF8Edyp34pwdTOSVQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_O65KUOF6Edyp34pwdTOSVQ" name="analista_de_proceso" guid="_O65KUOF6Edyp34pwdTOSVQ" presentationName="Analista de proceso">
             <methodElementProperty xmi:id="_IN8qwLzhEeiaRZinmuc1jA" name="me_edited" value="true"/>
             <presentation xmi:id="-u_0D0nwGoZhpANLeqrq14A" href="uma://-u_0D0nwGoZhpANLeqrq14A#-u_0D0nwGoZhpANLeqrq14A"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_SCv2oOF7Edyp34pwdTOSVQ" name="scrum_of_scrums" guid="_SCv2oOF7Edyp34pwdTOSVQ" presentationName="Scrum of Scrums">
             <presentation xmi:id="-e9FxENZuCFr7WkungxFv0Q" href="uma://-e9FxENZuCFr7WkungxFv0Q#-e9FxENZuCFr7WkungxFv0Q"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_OZIPIOF8Edyp34pwdTOSVQ" name="product_backlog" guid="_OZIPIOF8Edyp34pwdTOSVQ" presentationName="Product Backlog" briefDescription="The Product Backlog is the master list of all functionality desired in the product. " examples="_t2djoPVPEdyMdecrgpMbRg" templates="_OO6A0F8rEd22Gu98eFOlrQ">
-            <presentation xmi:id="-v5-z0Dm_JF0P2xtKd0FDrA" href="uma://-v5-z0Dm_JF0P2xtKd0FDrA#-v5-z0Dm_JF0P2xtKd0FDrA"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Q5Ki8OF8Edyp34pwdTOSVQ" name="sprint_backlog" guid="_Q5Ki8OF8Edyp34pwdTOSVQ" presentationName="Sprint Backlog" briefDescription="The sprint backlog is the list of tasks that the Scrum team is committing that they will complete in the current sprint. " templates="_OO6A0F8rEd22Gu98eFOlrQ">
-            <methodElementProperty xmi:id="_zIFe8L0aEeiaRZinmuc1jA" name="me_edited" value="true"/>
-            <presentation xmi:id="-N_A3a4KFML6T529HCXOO8w" href="uma://-N_A3a4KFML6T529HCXOO8w#-N_A3a4KFML6T529HCXOO8w"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_4gCKAOF9Edyp34pwdTOSVQ" name="4.construye_draft_arquitectura" guid="_4gCKAOF9Edyp34pwdTOSVQ" presentationName="Construye Draft Arquitectura" briefDescription="Con el entendimiento obtenido en el punto 3, construye una primera versión de la arquitectura donde refleja los componentes involucrados en la solución y las relaciones entre ellos.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;" performedBy="_Bw-twOF6Edyp34pwdTOSVQ">
             <methodElementProperty xmi:id="_GsMu4L0HEeiaRZinmuc1jA" name="me_edited" value="true"/>
@@ -179,7 +170,7 @@
             <methodElementProperty xmi:id="_DDwMEL0IEeiaRZinmuc1jA" name="me_edited" value="true"/>
             <presentation xmi:id="-pG2ESbyFiJiYPp8g3_H-Ow" href="uma://-pG2ESbyFiJiYPp8g3_H-Ow#-pG2ESbyFiJiYPp8g3_H-Ow"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_oSM0AOF-Edyp34pwdTOSVQ" name="7.realiza_contextualizacion_a_analistas_soa" guid="_oSM0AOF-Edyp34pwdTOSVQ" presentationName="Realiza contextualización a analistas SOA" briefDescription="Si el arquitecto identifica que la capacidad no está expuesta como servicio o requiere modificación de algún servicio ya existente, convoca al Analista SOA para contextualizarlo sobre la necesidad.&#xD;&#xA;&#xD;&#xA;Si la capacidad requerida ya está expuesta como servicio se debe seguir el subproceso de Reúso de Servicios que será descrito en otro documento y no hace parte del rol de Analista SOA.&#xD;&#xA;" performedBy="_Bw-twOF6Edyp34pwdTOSVQ" mandatoryInput="_rU4H4F8fEd22Gu98eFOlrQ" output="_rU4H4F8fEd22Gu98eFOlrQ _Q5Ki8OF8Edyp34pwdTOSVQ _YzmSIF8sEd22Gu98eFOlrQ" additionallyPerformedBy="_R1K5ILzgEeiaRZinmuc1jA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_oSM0AOF-Edyp34pwdTOSVQ" name="7.realiza_contextualizacion_a_analistas_soa" guid="_oSM0AOF-Edyp34pwdTOSVQ" presentationName="Realiza contextualización a analistas SOA" briefDescription="Si el arquitecto identifica que la capacidad no está expuesta como servicio o requiere modificación de algún servicio ya existente, convoca al Analista SOA para contextualizarlo sobre la necesidad.&#xD;&#xA;&#xD;&#xA;Si la capacidad requerida ya está expuesta como servicio se debe seguir el subproceso de Reúso de Servicios que será descrito en otro documento y no hace parte del rol de Analista SOA.&#xD;&#xA;" performedBy="_Bw-twOF6Edyp34pwdTOSVQ" additionallyPerformedBy="_R1K5ILzgEeiaRZinmuc1jA">
             <methodElementProperty xmi:id="_0UsTQLzeEeiaRZinmuc1jA" name="me_edited" value="true"/>
             <presentation xmi:id="-bGl4WDpeag1duq9jSWKwLg" href="uma://-bGl4WDpeag1duq9jSWKwLg#-bGl4WDpeag1duq9jSWKwLg"/>
           </contentElements>
@@ -193,16 +184,9 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_t2djoPVPEdyMdecrgpMbRg" name="example_product_backlog" guid="_t2djoPVPEdyMdecrgpMbRg" presentationName="Example Product Backlog">
             <presentation xmi:id="-rfXDg30uLSggSmzHYCYVlg" href="uma://-rfXDg30uLSggSmzHYCYVlg#-rfXDg30uLSggSmzHYCYVlg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="__uNYkPVgEdyMdecrgpMbRg" name="potentially_shippable_product_incremement" guid="__uNYkPVgEdyMdecrgpMbRg" presentationName="Potentially Shippable Product Incremement" briefDescription="The outcome of every sprint is a potentially shippable product increment.">
-            <methodElementProperty xmi:id="__YHfgLxREeiaRZinmuc1jA" name="me_edited" value="true"/>
-            <presentation xmi:id="-r4CP_1w3uk0ClgSnUrm80w" href="uma://-r4CP_1w3uk0ClgSnUrm80w#-r4CP_1w3uk0ClgSnUrm80w"/>
-          </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_lC260PVhEdyMdecrgpMbRg" name="introduccion_centro_de_procesos" guid="_lC260PVhEdyMdecrgpMbRg" presentationName="Introducción Centro de Procesos" briefDescription="Este es el centro de procesos de la sección de gobierno SOA" shapeicon="guidances/supportingmaterials/resources/check+(1).png" nodeicon="guidances/supportingmaterials/resources/check.png">
             <methodElementProperty xmi:id="_HGut0LxOEeiaRZinmuc1jA" name="me_edited" value="true"/>
             <presentation xmi:id="-B-d2Wl0Vyk_-I-RwtKzhKQ" href="uma://-B-d2Wl0Vyk_-I-RwtKzhKQ#-B-d2Wl0Vyk_-I-RwtKzhKQ"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_tFw9IPVoEdyJbYuqG3X5Ag" name="release_burndown_chart" guid="_tFw9IPVoEdyJbYuqG3X5Ag" presentationName="Release Burndown Chart" briefDescription="The release burndown chart tracks a team's progress against its release plant. " examples="_zUZ0MPVpEdyJbYuqG3X5Ag" templates="_OO6A0F8rEd22Gu98eFOlrQ">
-            <presentation xmi:id="-f7PDqWbPWJ4XP9HiP8IVKQ" href="uma://-f7PDqWbPWJ4XP9HiP8IVKQ#-f7PDqWbPWJ4XP9HiP8IVKQ"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_zUZ0MPVpEdyJbYuqG3X5Ag" name="alternative_release_burndown_chart" guid="_zUZ0MPVpEdyJbYuqG3X5Ag" presentationName="Alternative Release Burndown Chart">
             <presentation xmi:id="-KkrHQnR4XqgdNpWEvfFEtw" href="uma://-KkrHQnR4XqgdNpWEvfFEtw#-KkrHQnR4XqgdNpWEvfFEtw"/>
@@ -305,18 +289,12 @@
             <methodElementProperty xmi:id="_IMB_MLzhEeiaRZinmuc1jA" name="me_edited" value="true"/>
             <presentation xmi:id="-_17L09AWhCtpcfaV1O_oIA" href="uma://-_17L09AWhCtpcfaV1O_oIA#-_17L09AWhCtpcfaV1O_oIA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_RunHEF8ZEd22Gu98eFOlrQ" name="3.entendimiento_de_necesidades_y_alcance_del_proyecto" guid="_RunHEF8ZEd22Gu98eFOlrQ" presentationName="Entendimiento de necesidades y alcance del proyecto" briefDescription="En la fase de inception hace las preguntas necesarias para que se pueda dar un entendimiento claro de las necesidades y requerimientos del analista de negocio, los procesos de negocio implicados y el alcance del proyecto" performedBy="_Bw-twOF6Edyp34pwdTOSVQ" mandatoryInput="_OZIPIOF8Edyp34pwdTOSVQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_RunHEF8ZEd22Gu98eFOlrQ" name="3.entendimiento_de_necesidades_y_alcance_del_proyecto" guid="_RunHEF8ZEd22Gu98eFOlrQ" presentationName="Entendimiento de necesidades y alcance del proyecto" briefDescription="En la fase de inception hace las preguntas necesarias para que se pueda dar un entendimiento claro de las necesidades y requerimientos del analista de negocio, los procesos de negocio implicados y el alcance del proyecto" performedBy="_Bw-twOF6Edyp34pwdTOSVQ">
             <methodElementProperty xmi:id="_efEjcLzhEeiaRZinmuc1jA" name="me_edited" value="true"/>
             <presentation xmi:id="-NrSTjiuzDnfEiZxA7N_tFA" href="uma://-NrSTjiuzDnfEiZxA7N_tFA#-NrSTjiuzDnfEiZxA7N_tFA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_rU4H4F8fEd22Gu98eFOlrQ" name="taskboard" guid="_rU4H4F8fEd22Gu98eFOlrQ" presentationName="Task Board" briefDescription="The task board shows all the work the team is doing during a sprint">
-            <presentation xmi:id="-JGaSKq8Cd3WrAqkPLTUUGg" href="uma://-JGaSKq8Cd3WrAqkPLTUUGg#-JGaSKq8Cd3WrAqkPLTUUGg"/>
-          </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_OO6A0F8rEd22Gu98eFOlrQ" name="burndown_chart" guid="_OO6A0F8rEd22Gu98eFOlrQ" presentationName="Burndown Chart" briefDescription="These Excel spreadsheets provide useful capabilities for creating burndown charts.">
             <presentation xmi:id="-3AgWsgStwa4K2S5b_pS3jA" href="uma://-3AgWsgStwa4K2S5b_pS3jA#-3AgWsgStwa4K2S5b_pS3jA"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_YzmSIF8sEd22Gu98eFOlrQ" name="sprint_burndown_chart" guid="_YzmSIF8sEd22Gu98eFOlrQ" presentationName="Sprint Burndown Chart " briefDescription="The Sprint Burndown Chart is a graphical representation of the work remaining over the duration of the Sprint." templates="_OO6A0F8rEd22Gu98eFOlrQ">
-            <presentation xmi:id="-EQ9gGoEO7QfWA_0iXzILuA" href="uma://-EQ9gGoEO7QfWA_0iXzILuA#-EQ9gGoEO7QfWA_0iXzILuA"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_R1K5ILzgEeiaRZinmuc1jA" name="analista_soa" guid="_R1K5ILzgEeiaRZinmuc1jA" presentationName="Analista SOA" briefDescription="The ScrumMaster is responsible for making sure a Scrum team lives by the values and practices of Scrum. The ScrumMaster protects the team by making sure they do not overcommit themselves to what they can achieve during a sprint. &#xD;&#xA;&#xD;&#xA;The ScrumMaster facilitates the daily scrum and becomes responsible for removing any obstacles that are brought up by the team during those meetings. ">
             <methodElementProperty xmi:id="_INYDALzhEeiaRZinmuc1jA" name="me_edited" value="true"/>
@@ -352,38 +330,6 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_h78f4L0WEeiaRZinmuc1jA" name="15.registra_servicios_en_wsrr" guid="_h78f4L0WEeiaRZinmuc1jA" presentationName="Registra servicios en WSRR" briefDescription="Con los insumos generados en el punto 13 el Analista SOA debe registrar en WSRR gobierno producción tantos servicios como Registros de Servicio fueron generados.  El registro en WSRR runtime lo debe hacer el Diseñador SOA en cada ambiente a medida que se pase por las diferentes etapas de desarrollo, certificación y producción.&#xD;&#xA;&#xD;&#xA;Nota.  Se aclara que cuando salga la nueva versión y modelo de WSRR el paso entre ambientes se hará automático.&#xD;&#xA;" performedBy="_R1K5ILzgEeiaRZinmuc1jA">
             <methodElementProperty xmi:id="_l7s6AL0WEeiaRZinmuc1jA" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Npf8wM5hEeixjO0WOf6fUg" name="establecer_motivo_para_realizar_la_jubilacin" guid="_Npf8wM5hEeixjO0WOf6fUg" presentationName="Establecer motivo para realizar la jubilación" briefDescription="Esta tarea permite establecer el motivo de jubilación del servicio">
-            <methodElementProperty xmi:id="_U9c_ANYWEeixjO0WOf6fUg" name="me_edited" value="true"/>
-            <presentation xmi:id="-D-SQZH0TmNQGOIZJUhHhIQ" href="uma://-D-SQZH0TmNQGOIZJUhHhIQ#-D-SQZH0TmNQGOIZJUhHhIQ"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CGoqANYWEeixjO0WOf6fUg" name="validar_duenos_tecnico_y_funcional" guid="_CGoqANYWEeixjO0WOf6fUg" presentationName="Validar dueños Tecnico y Funcional" briefDescription="Esta tarea permite validar que el servicio a jubilar tenga definidos el dueño tecnico y el dueño funcional" performedBy="_BXAj8NfDEeiWxaPfbRKKAA">
-            <methodElementProperty xmi:id="_U68dkNYWEeixjO0WOf6fUg" name="me_edited" value="true"/>
-            <presentation xmi:id="-PXVLAZKJehMbANOPT54xcQ" href="uma://-PXVLAZKJehMbANOPT54xcQ#-PXVLAZKJehMbANOPT54xcQ"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9rAUwNYsEeixjO0WOf6fUg" name="generar_listado_de_consumidores_del_servicio_a_jubilar" guid="_9rAUwNYsEeixjO0WOf6fUg" presentationName="Generar Listado de consumidores del servicio a jubilar" briefDescription="Esta tarea permite identificar los consumidores del servicio registrados." performedBy="_MGCLINcCEeixjO0WOf6fUg" mandatoryInput="_Buk7ENYxEeixjO0WOf6fUg" output="_Buk7ENYxEeixjO0WOf6fUg" additionallyPerformedBy="_UFOPQNcCEeixjO0WOf6fUg">
-            <methodElementProperty xmi:id="_M3fwQNYxEeixjO0WOf6fUg" name="me_edited" value="true"/>
-            <presentation xmi:id="-yuBB0Is8oQykG9ZwRgbJpA" href="uma://-yuBB0Is8oQykG9ZwRgbJpA#-yuBB0Is8oQykG9ZwRgbJpA"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Buk7ENYxEeixjO0WOf6fUg" name="plan_de_jubilacion" guid="_Buk7ENYxEeixjO0WOf6fUg" presentationName="Plan de Jubilación" briefDescription="Documento con la información detallada del proceso de jubilación de un servicio." examples="_UECmoNfKEeiWxaPfbRKKAA" templates="__MRjANfIEeiWxaPfbRKKAA">
-            <methodElementProperty xmi:id="_M1ch0NYxEeixjO0WOf6fUg" name="me_edited" value="true"/>
-            <presentation xmi:id="-eK4y9gdYSFLSPSlx01hMzw" href="uma://-eK4y9gdYSFLSPSlx01hMzw#-eK4y9gdYSFLSPSlx01hMzw"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_qvxCsNZAEeixjO0WOf6fUg" name="establecer_fecha_de_inicio_de_la_jubilacion" guid="_qvxCsNZAEeixjO0WOf6fUg" presentationName="Establecer fecha de inicio de la jubilación" briefDescription="Esta tarea permite establecer la fecha de inicio de jubilación." mandatoryInput="_Buk7ENYxEeixjO0WOf6fUg" output="_Buk7ENYxEeixjO0WOf6fUg">
-            <methodElementProperty xmi:id="_a2VkgNZDEeixjO0WOf6fUg" name="me_edited" value="true"/>
-            <presentation xmi:id="-Ax9IyBngt_AibVubPx0i0Q" href="uma://-Ax9IyBngt_AibVubPx0i0Q#-Ax9IyBngt_AibVubPx0i0Q"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Z2S5QNZCEeixjO0WOf6fUg" name="establecer_fecha_de_ejecucion_de_la_jubilacion" guid="_Z2S5QNZCEeixjO0WOf6fUg" presentationName="Establecer fecha de ejecución de la jubilación" briefDescription="Esta tarea permite establecer la fecha de ejecución de jubilación." mandatoryInput="_Buk7ENYxEeixjO0WOf6fUg" output="_Buk7ENYxEeixjO0WOf6fUg">
-            <methodElementProperty xmi:id="_a0RH8NZDEeixjO0WOf6fUg" name="me_edited" value="true"/>
-            <presentation xmi:id="-lmj-aPnfxFOlGT54vHwT4g" href="uma://-lmj-aPnfxFOlGT54vHwT4g#-lmj-aPnfxFOlGT54vHwT4g"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_LUj6cNbMEeixjO0WOf6fUg" name="establecer_estrategia_de_divulgacion_del_proceso_de_jubilacion" guid="_LUj6cNbMEeixjO0WOf6fUg" presentationName="Establecer estrategia de divulgación del proceso de jubilación" briefDescription="Esta tarea permite establecer la estrategia de divulgación a los consumidores" performedBy="_MGCLINcCEeixjO0WOf6fUg" mandatoryInput="_Buk7ENYxEeixjO0WOf6fUg" output="_Buk7ENYxEeixjO0WOf6fUg" additionallyPerformedBy="_UFOPQNcCEeixjO0WOf6fUg">
-            <methodElementProperty xmi:id="_XA6z4NbMEeixjO0WOf6fUg" name="me_edited" value="true"/>
-            <presentation xmi:id="-mm0x0spAvwwWCJCj05dmng" href="uma://-mm0x0spAvwwWCJCj05dmng#-mm0x0spAvwwWCJCj05dmng"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cY6vUNb4EeixjO0WOf6fUg" name="generar_alternativas_de_migracion_para_los_consumidores" guid="_cY6vUNb4EeixjO0WOf6fUg" presentationName="generar alternativas de migración para los consumidores" briefDescription="Esta tarea permite establecer las posibles opciones que tienen los consumidores para el proceso de migracion." performedBy="_MGCLINcCEeixjO0WOf6fUg" additionallyPerformedBy="_UFOPQNcCEeixjO0WOf6fUg">
-            <methodElementProperty xmi:id="_NnmhANcBEeixjO0WOf6fUg" name="me_edited" value="true"/>
-            <presentation xmi:id="-c1zzy4QW7RBh4QFVLuj-8Q" href="uma://-c1zzy4QW7RBh4QFVLuj-8Q#-c1zzy4QW7RBh4QFVLuj-8Q"/>
-          </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_MGCLINcCEeixjO0WOf6fUg" name="dueno_funcional" guid="_MGCLINcCEeixjO0WOf6fUg" presentationName="Dueño Funcional">
             <methodElementProperty xmi:id="_TCx60NcCEeixjO0WOf6fUg" name="me_edited" value="true"/>
           </contentElements>
@@ -393,20 +339,8 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_qbBzoNcCEeixjO0WOf6fUg" name="consumidor_del_servicio" guid="_qbBzoNcCEeixjO0WOf6fUg" presentationName="Consumidor del Servicio">
             <methodElementProperty xmi:id="_K0x3QNcFEeixjO0WOf6fUg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NasVENe_EeiWxaPfbRKKAA" name="reunion_de_divulgacion_a_los_consumidores" guid="_NasVENe_EeiWxaPfbRKKAA" presentationName="Reunión de Divulgación a los Consumidores" briefDescription="Esta tarea permite presentar a los consumidores el plan de jubilación." performedBy="_MGCLINcCEeixjO0WOf6fUg" mandatoryInput="_Buk7ENYxEeixjO0WOf6fUg" additionallyPerformedBy="_qbBzoNcCEeixjO0WOf6fUg">
-            <methodElementProperty xmi:id="_oWTxgNfAEeiWxaPfbRKKAA" name="me_edited" value="true"/>
-            <presentation xmi:id="-M7s5cmzwd7Q-FBhA8VHyKQ" href="uma://-M7s5cmzwd7Q-FBhA8VHyKQ#-M7s5cmzwd7Q-FBhA8VHyKQ"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ywfRYNfAEeiWxaPfbRKKAA" name="realizar_ajustes_al_plan_de_jubilacin" guid="_ywfRYNfAEeiWxaPfbRKKAA" presentationName="Realizar ajustes al plan de Jubilación" briefDescription="Esta tarea permite ajustar el plan de Jubilación.">
-            <methodElementProperty xmi:id="_LFSnINfDEeiWxaPfbRKKAA" name="me_edited" value="true"/>
-            <presentation xmi:id="-RoaBxl3OGFNwtvQAtvA4Kg" href="uma://-RoaBxl3OGFNwtvQAtvA4Kg#-RoaBxl3OGFNwtvQAtvA4Kg"/>
-          </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_BXAj8NfDEeiWxaPfbRKKAA" name="arquitecto_de_la_solucion" guid="_BXAj8NfDEeiWxaPfbRKKAA" presentationName="Arquitecto de la solución">
             <methodElementProperty xmi:id="_LDScANfDEeiWxaPfbRKKAA" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_FFd9QNfEEeiWxaPfbRKKAA" name="ejecutar_proceso_de_asignacion_de_duenos_funcionales_y_tecnicos" guid="_FFd9QNfEEeiWxaPfbRKKAA" presentationName="Ejecutar proceso de asignación de dueños funcionales y tecnicos" briefDescription="Esta tarea hacer referencia al proceso de asignación de dueños funcionales y tecnicos." performedBy="_BXAj8NfDEeiWxaPfbRKKAA">
-            <methodElementProperty xmi:id="_PLcuwNfEEeiWxaPfbRKKAA" name="me_edited" value="true"/>
-            <presentation xmi:id="-I0Y1O7Q0D5SzZj_vGmxVhA" href="uma://-I0Y1O7Q0D5SzZj_vGmxVhA#-I0Y1O7Q0D5SzZj_vGmxVhA"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="__MRjANfIEeiWxaPfbRKKAA" name="template_plan_de_jubilacin" guid="__MRjANfIEeiWxaPfbRKKAA" presentationName="Template Plan de Jubilación">
             <methodElementProperty xmi:id="_DobTUNfLEeiWxaPfbRKKAA" name="me_edited" value="true"/>
@@ -416,30 +350,82 @@
             <methodElementProperty xmi:id="_Dqr9INfLEeiWxaPfbRKKAA" name="me_edited" value="true"/>
             <presentation xmi:id="-qQZPGjGqil81KwTaYVcc_Q" href="uma://-qQZPGjGqil81KwTaYVcc_Q#-qQZPGjGqil81KwTaYVcc_Q"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_SKYvkNiJEeiWxaPfbRKKAA" name="modificar_estado_del_servicio_a_deprecado" guid="_SKYvkNiJEeiWxaPfbRKKAA" presentationName="Modificar estado del servicio a Deprecado" briefDescription="Esta tarea permite cambiar el estado del servicio en el Registry" performedBy="_MGCLINcCEeixjO0WOf6fUg" mandatoryInput="_Buk7ENYxEeixjO0WOf6fUg">
-            <methodElementProperty xmi:id="_xw7qENiKEeiWxaPfbRKKAA" name="me_edited" value="true"/>
-            <presentation xmi:id="-W6taEFz0hRudNkL7q4NS_Q" href="uma://-W6taEFz0hRudNkL7q4NS_Q#-W6taEFz0hRudNkL7q4NS_Q"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NzajUOLREei3RvFNXnqpRQ" name="jubilacion_de_servicios" guid="_NzajUOLREei3RvFNXnqpRQ" presentationName="Jubilación de Servicios" briefDescription="Contenido especifico del proceso de jubilación de servicios">
+          <methodElementProperty xmi:id="_NzbKYOLREei3RvFNXnqpRQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_kVUqAOLREei3RvFNXnqpRQ" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_gIEJYNifEeiD7K0-g28vVA" name="ejecutar_jubilacion_del_servicio" guid="_gIEJYNifEeiD7K0-g28vVA" presentationName="Ejecutar Jubilación del Servicio" briefDescription="Esta tarea permite jubilar el servicio" performedBy="_UFOPQNcCEeixjO0WOf6fUg" mandatoryInput="_Buk7ENYxEeixjO0WOf6fUg">
+            <methodElementProperty xmi:id="_xmyDANifEeiD7K0-g28vVA" name="me_edited" value="true"/>
+            <presentation xmi:id="-gewEZdAMQjDWS3oGP-sbug" href="uma://-gewEZdAMQjDWS3oGP-sbug#-gewEZdAMQjDWS3oGP-sbug"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Ibx_cNiNEeiWxaPfbRKKAA" name="notificar_estado_deprecado_a_los_consumidores" guid="_Ibx_cNiNEeiWxaPfbRKKAA" presentationName="Notificar estado Deprecado a los consumidores" briefDescription="Esta tarea permite notificar a los consumidores del estado Deprecado del servicio" performedBy="_MGCLINcCEeixjO0WOf6fUg">
-            <methodElementProperty xmi:id="_-fEscNiREeiWxaPfbRKKAA" name="me_edited" value="true"/>
-            <presentation xmi:id="-ak5AJ-pUNDAbWd4-Jv4ToQ" href="uma://-ak5AJ-pUNDAbWd4-Jv4ToQ#-ak5AJ-pUNDAbWd4-Jv4ToQ"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_FFd9QNfEEeiWxaPfbRKKAA" name="ejecutar_proceso_de_asignacion_de_duenos_funcionales_y_tecnicos" guid="_FFd9QNfEEeiWxaPfbRKKAA" presentationName="Ejecutar proceso de asignación de dueños funcionales y tecnicos" briefDescription="Esta tarea hacer referencia al proceso de asignación de dueños funcionales y tecnicos." performedBy="_BXAj8NfDEeiWxaPfbRKKAA">
+            <methodElementProperty xmi:id="_PLcuwNfEEeiWxaPfbRKKAA" name="me_edited" value="true"/>
+            <presentation xmi:id="-I0Y1O7Q0D5SzZj_vGmxVhA" href="uma://-I0Y1O7Q0D5SzZj_vGmxVhA#-I0Y1O7Q0D5SzZj_vGmxVhA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_d0m9MNiYEeiD7K0-g28vVA" name="notificar_disponibilidad_de_nuevo_servicio_a_consumidores" guid="_d0m9MNiYEeiD7K0-g28vVA" presentationName="Notificar disponibilidad de nuevo servicio a consumidores" briefDescription="Est tarea permite notificar la disponibilidad de un servicio a los consumidores">
-            <methodElementProperty xmi:id="_LgH1ANifEeiD7K0-g28vVA" name="me_edited" value="true"/>
-            <presentation xmi:id="-MwGMiIbBLlJZeDAVy9Bz6w" href="uma://-MwGMiIbBLlJZeDAVy9Bz6w#-MwGMiIbBLlJZeDAVy9Bz6w"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_LUj6cNbMEeixjO0WOf6fUg" name="establecer_estrategia_de_divulgacion_del_proceso_de_jubilacion" guid="_LUj6cNbMEeixjO0WOf6fUg" presentationName="Establecer estrategia de divulgación del proceso de jubilación" briefDescription="Esta tarea permite establecer la estrategia de divulgación a los consumidores" performedBy="_MGCLINcCEeixjO0WOf6fUg" mandatoryInput="_Buk7ENYxEeixjO0WOf6fUg" output="_Buk7ENYxEeixjO0WOf6fUg" additionallyPerformedBy="_UFOPQNcCEeixjO0WOf6fUg">
+            <methodElementProperty xmi:id="_XA6z4NbMEeixjO0WOf6fUg" name="me_edited" value="true"/>
+            <presentation xmi:id="-mm0x0spAvwwWCJCj05dmng" href="uma://-mm0x0spAvwwWCJCj05dmng#-mm0x0spAvwwWCJCj05dmng"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Z2S5QNZCEeixjO0WOf6fUg" name="establecer_fecha_de_ejecucion_de_la_jubilacion" guid="_Z2S5QNZCEeixjO0WOf6fUg" presentationName="Establecer fecha de ejecución de la jubilación" briefDescription="Esta tarea permite establecer la fecha de ejecución de jubilación." mandatoryInput="_Buk7ENYxEeixjO0WOf6fUg" output="_Buk7ENYxEeixjO0WOf6fUg">
+            <methodElementProperty xmi:id="_a0RH8NZDEeixjO0WOf6fUg" name="me_edited" value="true"/>
+            <presentation xmi:id="-lmj-aPnfxFOlGT54vHwT4g" href="uma://-lmj-aPnfxFOlGT54vHwT4g#-lmj-aPnfxFOlGT54vHwT4g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_qvxCsNZAEeixjO0WOf6fUg" name="establecer_fecha_de_inicio_de_la_jubilacion" guid="_qvxCsNZAEeixjO0WOf6fUg" presentationName="Establecer fecha de inicio de la jubilación" briefDescription="Esta tarea permite establecer la fecha de inicio de jubilación." mandatoryInput="_Buk7ENYxEeixjO0WOf6fUg" output="_Buk7ENYxEeixjO0WOf6fUg">
+            <methodElementProperty xmi:id="_a2VkgNZDEeixjO0WOf6fUg" name="me_edited" value="true"/>
+            <presentation xmi:id="-Ax9IyBngt_AibVubPx0i0Q" href="uma://-Ax9IyBngt_AibVubPx0i0Q#-Ax9IyBngt_AibVubPx0i0Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Npf8wM5hEeixjO0WOf6fUg" name="establecer_motivo_para_realizar_la_jubilacin" guid="_Npf8wM5hEeixjO0WOf6fUg" presentationName="Establecer motivo para realizar la jubilación" briefDescription="Esta tarea permite establecer el motivo de jubilación del servicio">
+            <methodElementProperty xmi:id="_U9c_ANYWEeixjO0WOf6fUg" name="me_edited" value="true"/>
+            <presentation xmi:id="-D-SQZH0TmNQGOIZJUhHhIQ" href="uma://-D-SQZH0TmNQGOIZJUhHhIQ#-D-SQZH0TmNQGOIZJUhHhIQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_cY6vUNb4EeixjO0WOf6fUg" name="generar_alternativas_de_migracion_para_los_consumidores" guid="_cY6vUNb4EeixjO0WOf6fUg" presentationName="generar alternativas de migración para los consumidores" briefDescription="Esta tarea permite establecer las posibles opciones que tienen los consumidores para el proceso de migracion." performedBy="_MGCLINcCEeixjO0WOf6fUg" additionallyPerformedBy="_UFOPQNcCEeixjO0WOf6fUg">
+            <methodElementProperty xmi:id="_NnmhANcBEeixjO0WOf6fUg" name="me_edited" value="true"/>
+            <presentation xmi:id="-c1zzy4QW7RBh4QFVLuj-8Q" href="uma://-c1zzy4QW7RBh4QFVLuj-8Q#-c1zzy4QW7RBh4QFVLuj-8Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9rAUwNYsEeixjO0WOf6fUg" name="generar_listado_de_consumidores_del_servicio_a_jubilar" guid="_9rAUwNYsEeixjO0WOf6fUg" presentationName="Generar Listado de consumidores del servicio a jubilar" briefDescription="Esta tarea permite identificar los consumidores del servicio registrados." performedBy="_MGCLINcCEeixjO0WOf6fUg" mandatoryInput="_Buk7ENYxEeixjO0WOf6fUg" output="_Buk7ENYxEeixjO0WOf6fUg" additionallyPerformedBy="_UFOPQNcCEeixjO0WOf6fUg">
+            <methodElementProperty xmi:id="_M3fwQNYxEeixjO0WOf6fUg" name="me_edited" value="true"/>
+            <presentation xmi:id="-yuBB0Is8oQykG9ZwRgbJpA" href="uma://-yuBB0Is8oQykG9ZwRgbJpA#-yuBB0Is8oQykG9ZwRgbJpA"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_nUaYINibEeiD7K0-g28vVA" name="generar_notificacion_de_jubilacion_proxima_a_ejecutarse" guid="_nUaYINibEeiD7K0-g28vVA" presentationName="Generar notificación de jubilación proxima a ejecutarse" briefDescription="Esta tarea permite alertar a los consumidores del hecho de que la juliación del servicio esta proxima a ejecutarse." performedBy="_MGCLINcCEeixjO0WOf6fUg">
             <methodElementProperty xmi:id="_Ldk3UNifEeiD7K0-g28vVA" name="me_edited" value="true"/>
             <presentation xmi:id="-f6z6jmFPX8Rt6RSSCXvtuQ" href="uma://-f6z6jmFPX8Rt6RSSCXvtuQ#-f6z6jmFPX8Rt6RSSCXvtuQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_gIEJYNifEeiD7K0-g28vVA" name="ejecutar_jubilacion_del_servicio" guid="_gIEJYNifEeiD7K0-g28vVA" presentationName="Ejecutar Jubilación del Servicio" briefDescription="Esta tarea permite jubilar el servicio" performedBy="_UFOPQNcCEeixjO0WOf6fUg" mandatoryInput="_Buk7ENYxEeixjO0WOf6fUg">
-            <methodElementProperty xmi:id="_xmyDANifEeiD7K0-g28vVA" name="me_edited" value="true"/>
-            <presentation xmi:id="-gewEZdAMQjDWS3oGP-sbug" href="uma://-gewEZdAMQjDWS3oGP-sbug#-gewEZdAMQjDWS3oGP-sbug"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_SKYvkNiJEeiWxaPfbRKKAA" name="modificar_estado_del_servicio_a_deprecado" guid="_SKYvkNiJEeiWxaPfbRKKAA" presentationName="Modificar estado del servicio a Deprecado" briefDescription="Esta tarea permite cambiar el estado del servicio en el Registry" performedBy="_MGCLINcCEeixjO0WOf6fUg" mandatoryInput="_Buk7ENYxEeixjO0WOf6fUg">
+            <methodElementProperty xmi:id="_xw7qENiKEeiWxaPfbRKKAA" name="me_edited" value="true"/>
+            <presentation xmi:id="-W6taEFz0hRudNkL7q4NS_Q" href="uma://-W6taEFz0hRudNkL7q4NS_Q#-W6taEFz0hRudNkL7q4NS_Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_d0m9MNiYEeiD7K0-g28vVA" name="notificar_disponibilidad_de_nuevo_servicio_a_consumidores" guid="_d0m9MNiYEeiD7K0-g28vVA" presentationName="Notificar disponibilidad de nuevo servicio a consumidores" briefDescription="Est tarea permite notificar la disponibilidad de un servicio a los consumidores">
+            <methodElementProperty xmi:id="_LgH1ANifEeiD7K0-g28vVA" name="me_edited" value="true"/>
+            <presentation xmi:id="-MwGMiIbBLlJZeDAVy9Bz6w" href="uma://-MwGMiIbBLlJZeDAVy9Bz6w#-MwGMiIbBLlJZeDAVy9Bz6w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Ibx_cNiNEeiWxaPfbRKKAA" name="notificar_estado_deprecado_a_los_consumidores" guid="_Ibx_cNiNEeiWxaPfbRKKAA" presentationName="Notificar estado Deprecado a los consumidores" briefDescription="Esta tarea permite notificar a los consumidores del estado Deprecado del servicio" performedBy="_MGCLINcCEeixjO0WOf6fUg">
+            <methodElementProperty xmi:id="_-fEscNiREeiWxaPfbRKKAA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ak5AJ-pUNDAbWd4-Jv4ToQ" href="uma://-ak5AJ-pUNDAbWd4-Jv4ToQ#-ak5AJ-pUNDAbWd4-Jv4ToQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ywfRYNfAEeiWxaPfbRKKAA" name="realizar_ajustes_al_plan_de_jubilacin" guid="_ywfRYNfAEeiWxaPfbRKKAA" presentationName="Realizar ajustes al plan de Jubilación" briefDescription="Esta tarea permite ajustar el plan de Jubilación.">
+            <methodElementProperty xmi:id="_LFSnINfDEeiWxaPfbRKKAA" name="me_edited" value="true"/>
+            <presentation xmi:id="-RoaBxl3OGFNwtvQAtvA4Kg" href="uma://-RoaBxl3OGFNwtvQAtvA4Kg#-RoaBxl3OGFNwtvQAtvA4Kg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_NasVENe_EeiWxaPfbRKKAA" name="reunion_de_divulgacion_a_los_consumidores" guid="_NasVENe_EeiWxaPfbRKKAA" presentationName="Reunión de Divulgación a los Consumidores" briefDescription="Esta tarea permite presentar a los consumidores el plan de jubilación." performedBy="_MGCLINcCEeixjO0WOf6fUg" mandatoryInput="_Buk7ENYxEeixjO0WOf6fUg" additionallyPerformedBy="_qbBzoNcCEeixjO0WOf6fUg">
+            <methodElementProperty xmi:id="_oWTxgNfAEeiWxaPfbRKKAA" name="me_edited" value="true"/>
+            <presentation xmi:id="-M7s5cmzwd7Q-FBhA8VHyKQ" href="uma://-M7s5cmzwd7Q-FBhA8VHyKQ#-M7s5cmzwd7Q-FBhA8VHyKQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CGoqANYWEeixjO0WOf6fUg" name="validar_duenos_tecnico_y_funcional" guid="_CGoqANYWEeixjO0WOf6fUg" presentationName="Validar dueños Tecnico y Funcional" briefDescription="Esta tarea permite validar que el servicio a jubilar tenga definidos el dueño tecnico y el dueño funcional" performedBy="_BXAj8NfDEeiWxaPfbRKKAA">
+            <methodElementProperty xmi:id="_U68dkNYWEeixjO0WOf6fUg" name="me_edited" value="true"/>
+            <presentation xmi:id="-PXVLAZKJehMbANOPT54xcQ" href="uma://-PXVLAZKJehMbANOPT54xcQ#-PXVLAZKJehMbANOPT54xcQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Buk7ENYxEeixjO0WOf6fUg" name="plan_de_jubilacion" guid="_Buk7ENYxEeixjO0WOf6fUg" presentationName="Plan de Jubilación" briefDescription="Documento con la información detallada del proceso de jubilación de un servicio." examples="_UECmoNfKEeiWxaPfbRKKAA" templates="__MRjANfIEeiWxaPfbRKKAA">
+            <methodElementProperty xmi:id="_M1ch0NYxEeixjO0WOf6fUg" name="me_edited" value="true"/>
+            <presentation xmi:id="-eK4y9gdYSFLSPSlx01hMzw" href="uma://-eK4y9gdYSFLSPSlx01hMzw#-eK4y9gdYSFLSPSlx01hMzw"/>
           </contentElements>
         </childPackages>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_NzajUOLREei3RvFNXnqpRQ" name="jubilacion_de_servicios" guid="_NzajUOLREei3RvFNXnqpRQ" presentationName="Jubilación de Servicios">
-          <methodElementProperty xmi:id="_NzbKYOLREei3RvFNXnqpRQ" name="pkg_loadCheck" value="true"/>
-          <methodElementProperty xmi:id="_kVUqAOLREei3RvFNXnqpRQ" name="me_edited" value="true"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_zcqFAONfEei3RvFNXnqpRQ" name="analisis_de_servicios" guid="_zcqFAONfEei3RvFNXnqpRQ" presentationName="analisis_de_servicios">
+          <methodElementProperty xmi:id="_zcqFAeNfEei3RvFNXnqpRQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_4-A0wONfEei3RvFNXnqpRQ" name="me_edited" value="true"/>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_8RibAONfEei3RvFNXnqpRQ" name="diseo_de_servicios" guid="_8RibAONfEei3RvFNXnqpRQ" presentationName="diseño_de_servicios">
+          <methodElementProperty xmi:id="_8RjCEONfEei3RvFNXnqpRQ" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_GlZQcONgEei3RvFNXnqpRQ" name="me_edited" value="true"/>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_6Ab_HeF4Edyp34pwdTOSVQ" name="CapabilityPatterns" guid="_6Ab_HeF4Edyp34pwdTOSVQ"/>
