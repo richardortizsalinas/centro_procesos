@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:GuidanceDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qQZPGjGqil81KwTaYVcc_Q" name="ejemplo_plan_jubilaci0n,_UECmoNfKEeiWxaPfbRKKAA" guid="-qQZPGjGqil81KwTaYVcc_Q" changeDate="2018-10-24T15:23:11.919-0500" version="1.0.0">
-  <mainDescription>Este es un ejemplo del &lt;a class=&quot;elementLink&quot;&#xD;
-href=&quot;./../../../Procesos Sección Gobierno de Servicios/workproducts/plan_de_jubilacion_E8BACA3A.html&quot;&#xD;
-guid=&quot;_Buk7ENYxEeixjO0WOf6fUg&quot;>Plan de Jubilación&lt;/a>, haciendo uso del &lt;a class=&quot;elementLink&quot;&#xD;
-href=&quot;./../../../Procesos Sección Gobierno de Servicios/guidances/templates/plan_de_jubilacion_374DBF52.html&quot;&#xD;
-guid=&quot;__MRjANfIEeiWxaPfbRKKAA&quot;>Template Plan de Jubilación&lt;/a></mainDescription>
-</org.eclipse.epf.uma:GuidanceDescription>

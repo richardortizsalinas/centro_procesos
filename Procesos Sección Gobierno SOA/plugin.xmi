@@ -197,7 +197,7 @@
             <methodElementProperty xmi:id="__YHfgLxREeiaRZinmuc1jA" name="me_edited" value="true"/>
             <presentation xmi:id="-r4CP_1w3uk0ClgSnUrm80w" href="uma://-r4CP_1w3uk0ClgSnUrm80w#-r4CP_1w3uk0ClgSnUrm80w"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_lC260PVhEdyMdecrgpMbRg" name="introduccion_centro_de_procesos" guid="_lC260PVhEdyMdecrgpMbRg" presentationName="Introducción Centro de Procesos" briefDescription="Que es el centro de procesos" nodeicon="guidances/supportingmaterials/resources/check.png">
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_lC260PVhEdyMdecrgpMbRg" name="introduccion_centro_de_procesos" guid="_lC260PVhEdyMdecrgpMbRg" presentationName="Introducción Centro de Procesos" briefDescription="Este es el centro de procesos de la sección de gobierno SOA" shapeicon="guidances/supportingmaterials/resources/check+(1).png" nodeicon="guidances/supportingmaterials/resources/check.png">
             <methodElementProperty xmi:id="_HGut0LxOEeiaRZinmuc1jA" name="me_edited" value="true"/>
             <presentation xmi:id="-B-d2Wl0Vyk_-I-RwtKzhKQ" href="uma://-B-d2Wl0Vyk_-I-RwtKzhKQ#-B-d2Wl0Vyk_-I-RwtKzhKQ"/>
           </contentElements>
