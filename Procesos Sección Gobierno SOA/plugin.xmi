@@ -8,7 +8,7 @@
     <resourceDescriptors xmi:id="_SCv2ouF7Edyp34pwdTOSVQ" id="-u_0D0nwGoZhpANLeqrq14A" uri="roles/analista_de_proceso.xmi"/>
     <resourceDescriptors xmi:id="_VuLmkeF7Edyp34pwdTOSVQ" id="-e9FxENZuCFr7WkungxFv0Q" uri="guidances/guidelines/scrum_of_scrums.xmi"/>
     <resourceDescriptors xmi:id="_RWaQ4eGCEdyp34pwdTOSVQ" id="-_aNvcFLkG6dHmKhaz93BwA" uri="guidances/supportingmaterials/scrum_copyright.xmi"/>
-    <resourceDescriptors xmi:id="_C3NVAeGFEdyp34pwdTOSVQ" id="-OUAVEKu-MpijImO-oy53Rg" uri="customcategories/procesos_seccion_gobierno_de_servicios_tree.xmi"/>
+    <resourceDescriptors xmi:id="_C3NVAeGFEdyp34pwdTOSVQ" id="-OUAVEKu-MpijImO-oy53Rg" uri="customcategories/gobierno_soa_tree.xmi"/>
     <resourceDescriptors xmi:id="_MDvQYOvVEdyEBJO-n5l0YA" id="--OmeeCdOSH1ki1_i9TN0kg" uri="roles/analista_negocio.xmi"/>
     <resourceDescriptors xmi:id="_chOZsOvZEdyEBJO-n5l0YA" id="-yuXxE_O0V_WcpgWeUmX8fQ" uri="roles/arquitecto_de_soluciones.xmi"/>
     <resourceDescriptors xmi:id="_J5sZUO4HEdyKhak5q-de9w" id="-2Wj3V9GSZ2lAtr6E5xISGQ" uri="tasks/4.construye_draft_arquitectura.xmi"/>
@@ -81,7 +81,8 @@
     <resourceDescriptors xmi:id="_LeFNoNifEeiD7K0-g28vVA" id="-MwGMiIbBLlJZeDAVy9Bz6w" uri="tasks/notificar_disponibilidad_de_nuevo_servicio_a_consumidores.xmi"/>
     <resourceDescriptors xmi:id="_LeSB8NifEeiD7K0-g28vVA" id="-f6z6jmFPX8Rt6RSSCXvtuQ" uri="tasks/generar_notificacion_de_jubilacion_proxima_a_ejecutarse.xmi"/>
     <resourceDescriptors xmi:id="_xm9pMNifEeiD7K0-g28vVA" id="-gewEZdAMQjDWS3oGP-sbug" uri="tasks/ejecutar_jubilacion_del_servicio.xmi"/>
-    <resourceDescriptors xmi:id="_Z6bgkONiEei3RvFNXnqpRQ" id="-m50hsLg6lHmyQBSvVqd3QA" uri="disciplines/jubilacion_de_servicios.xmi"/>
+    <resourceDescriptors xmi:id="_X1u5YONsEei3RvFNXnqpRQ" id="-nRxqh1xeAJxrR0qHDjeYLQ" uri="customcategories/procesos.xmi"/>
+    <resourceDescriptors xmi:id="_7rmFQONzEei3RvFNXnqpRQ" id="-TF1ALbikLOxKDWHtuU2X8w" uri="customcategories/jubilacion_de_servicios.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_6Ab_EOF4Edyp34pwdTOSVQ" name="Procesos Sección Gobierno SOA" guid="_6Ab_EOF4Edyp34pwdTOSVQ" briefDescription="Scrum Plug-In" changeDate="2018-11-07T16:26:33.081-0500">
     <methodElementProperty xmi:id="_zHPUQOLTEei3RvFNXnqpRQ" name="me_edited" value="true"/>
@@ -90,26 +91,17 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_E-F4Edyp34pwdTOSVQ" name="Domains" guid="_6Ab_E-F4Edyp34pwdTOSVQ">
           <contentElements xsi:type="org.eclipse.epf.uma:Domain" xmi:id="_HX3tEN68EeiQKOcZo_8itQ" name="work_products_gobierno_soa" guid="_HX3tEN68EeiQKOcZo_8itQ" presentationName="Work Products Gobierno SOA ">
             <methodElementProperty xmi:id="_KpkuYN68EeiQKOcZo_8itQ" name="me_edited" value="true"/>
-            <subdomains xmi:id="_PFkYkN68EeiQKOcZo_8itQ" name="work_products_jubilacion_de_servicios" guid="_PFkYkN68EeiQKOcZo_8itQ" presentationName="Work Products Jubilación de servicios" workProducts="_Buk7ENYxEeixjO0WOf6fUg">
+            <subdomains xmi:id="_PFkYkN68EeiQKOcZo_8itQ" name="work_products_jubilacion_de_servicios" guid="_PFkYkN68EeiQKOcZo_8itQ" presentationName="Work Products" briefDescription="Work Products asociados al proceso de Jubilación de Servicios" workProducts="_Buk7ENYxEeixjO0WOf6fUg">
               <methodElementProperty xmi:id="_PHiHcN68EeiQKOcZo_8itQ" name="me_edited" value="true"/>
             </subdomains>
           </contentElements>
         </childPackages>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_FOF4Edyp34pwdTOSVQ" name="Disciplines" guid="_6Ab_FOF4Edyp34pwdTOSVQ">
-          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_G9cSIONiEei3RvFNXnqpRQ" name="disciplines_gobierno_soa" guid="_G9cSIONiEei3RvFNXnqpRQ" presentationName="Disciplines Gobierno SOA" disciplines="_YRnvsONiEei3RvFNXnqpRQ">
-            <methodElementProperty xmi:id="_dMnDAONiEei3RvFNXnqpRQ" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_YRnvsONiEei3RvFNXnqpRQ" name="jubilacion_de_servicios" guid="_YRnvsONiEei3RvFNXnqpRQ" presentationName="Jubilacion de Servicios" tasks="_Npf8wM5hEeixjO0WOf6fUg _CGoqANYWEeixjO0WOf6fUg _9rAUwNYsEeixjO0WOf6fUg _qvxCsNZAEeixjO0WOf6fUg _cY6vUNb4EeixjO0WOf6fUg _Z2S5QNZCEeixjO0WOf6fUg _LUj6cNbMEeixjO0WOf6fUg _NasVENe_EeiWxaPfbRKKAA _FFd9QNfEEeiWxaPfbRKKAA _SKYvkNiJEeiWxaPfbRKKAA _Ibx_cNiNEeiWxaPfbRKKAA _nUaYINibEeiD7K0-g28vVA _gIEJYNifEeiD7K0-g28vVA">
-            <methodElementProperty xmi:id="_ZDClkONiEei3RvFNXnqpRQ" name="me_edited" value="true"/>
-            <presentation xmi:id="-m50hsLg6lHmyQBSvVqd3QA" href="uma://-m50hsLg6lHmyQBSvVqd3QA#-m50hsLg6lHmyQBSvVqd3QA"/>
-            <referenceWorkflows href="uma://_DkKvQNiYEeiD7K0-g28vVA#_DkKvQdiYEeiD7K0-g28vVA"/>
-          </contentElements>
-        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_FOF4Edyp34pwdTOSVQ" name="Disciplines" guid="_6Ab_FOF4Edyp34pwdTOSVQ"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_FeF4Edyp34pwdTOSVQ" name="RoleSets" guid="_6Ab_FeF4Edyp34pwdTOSVQ">
           <contentElements xsi:type="org.eclipse.epf.uma:RoleSetGrouping" xmi:id="_DOflUOLMEei3RvFNXnqpRQ" name="roles_gobierno_soa" guid="_DOflUOLMEei3RvFNXnqpRQ" presentationName="Roles Gobierno SOA" roleSets="_ExgQMOLMEei3RvFNXnqpRQ">
             <methodElementProperty xmi:id="_GXXogOLREei3RvFNXnqpRQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_ExgQMOLMEei3RvFNXnqpRQ" name="roles_jubilacion_de_servicios" guid="_ExgQMOLMEei3RvFNXnqpRQ" presentationName="Roles" roles="_BXAj8NfDEeiWxaPfbRKKAA _MGCLINcCEeixjO0WOf6fUg _UFOPQNcCEeixjO0WOf6fUg">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_ExgQMOLMEei3RvFNXnqpRQ" name="roles_jubilacion_de_servicios" guid="_ExgQMOLMEei3RvFNXnqpRQ" presentationName="Roles" briefDescription="Roles asociados al proceso de Jubilación de Servicios" roles="_BXAj8NfDEeiWxaPfbRKKAA _MGCLINcCEeixjO0WOf6fUg _UFOPQNcCEeixjO0WOf6fUg">
             <methodElementProperty xmi:id="_F6hGsOLMEei3RvFNXnqpRQ" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
@@ -120,13 +112,14 @@
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_6Ab_GuF4Edyp34pwdTOSVQ" name="Hidden" guid="_6Ab_GuF4Edyp34pwdTOSVQ">
             <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_6Ab_G-F4Edyp34pwdTOSVQ" name="Custom Categories" guid="_6Ab_G-F4Edyp34pwdTOSVQ" categorizedElements="_Om8IAOGEEdyp34pwdTOSVQ"/>
           </childPackages>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Om8IAOGEEdyp34pwdTOSVQ" name="procesos_seccion_gobierno_de_servicios_tree" guid="_Om8IAOGEEdyp34pwdTOSVQ" presentationName="Procesos Sección Gobierno de Servicios_tree" categorizedElements="_lC260PVhEdyMdecrgpMbRg _zRGGgLxVEeiaRZinmuc1jA">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_Om8IAOGEEdyp34pwdTOSVQ" name="gobierno_soa_tree" guid="_Om8IAOGEEdyp34pwdTOSVQ" presentationName="Gobierno SOA" categorizedElements="_lC260PVhEdyMdecrgpMbRg _zRGGgLxVEeiaRZinmuc1jA">
             <methodElementProperty xmi:id="_ZMWAcOGEEdyp34pwdTOSVQ" name="PUBLISH_CATEGORY" value="true"/>
             <methodElementProperty xmi:id="_pOJDkLxEEeiaRZinmuc1jA" name="me_edited" value="true"/>
             <presentation xmi:id="-OUAVEKu-MpijImO-oy53Rg" href="uma://-OUAVEKu-MpijImO-oy53Rg#-OUAVEKu-MpijImO-oy53Rg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_zRGGgLxVEeiaRZinmuc1jA" name="procesos" guid="_zRGGgLxVEeiaRZinmuc1jA" presentationName="Procesos" nodeicon="customcategories/resources/gearwheels.png" categorizedElements="_E_dhoM5dEeixjO0WOf6fUg _52V8MLxVEeiaRZinmuc1jA _D5T18LxWEeiaRZinmuc1jA">
             <methodElementProperty xmi:id="_AIDK0LxWEeiaRZinmuc1jA" name="me_edited" value="true"/>
+            <presentation xmi:id="-nRxqh1xeAJxrR0qHDjeYLQ" href="uma://-nRxqh1xeAJxrR0qHDjeYLQ#-nRxqh1xeAJxrR0qHDjeYLQ"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_52V8MLxVEeiaRZinmuc1jA" name="analisis_de_servicios" guid="_52V8MLxVEeiaRZinmuc1jA" presentationName="Análisis de Servicios" nodeicon="customcategories/resources/gearwheel.png">
             <methodElementProperty xmi:id="_AH9EMLxWEeiaRZinmuc1jA" name="me_edited" value="true"/>
@@ -136,8 +129,9 @@
             <methodElementProperty xmi:id="_IHiw8LxWEeiaRZinmuc1jA" name="me_edited" value="true"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_Qux7QLxQEeiaRZinmuc1jA#_Qux7QbxQEeiaRZinmuc1jA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_E_dhoM5dEeixjO0WOf6fUg" name="jubilacion_de_servicios" guid="_E_dhoM5dEeixjO0WOf6fUg" presentationName="Jubilación de servicios" nodeicon="customcategories/resources/gearwheel.png">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_E_dhoM5dEeixjO0WOf6fUg" name="jubilacion_de_servicios" guid="_E_dhoM5dEeixjO0WOf6fUg" presentationName="Jubilación de servicios" briefDescription="Vista de Negocio del Proceso" nodeicon="customcategories/resources/gearwheel.png">
             <methodElementProperty xmi:id="_K2j34M5dEeixjO0WOf6fUg" name="me_edited" value="true"/>
+            <presentation xmi:id="-TF1ALbikLOxKDWHtuU2X8w" href="uma://-TF1ALbikLOxKDWHtuU2X8w#-TF1ALbikLOxKDWHtuU2X8w"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_DkKvQNiYEeiD7K0-g28vVA#_DkKvQdiYEeiD7K0-g28vVA"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:RoleSet" href="#_ExgQMOLMEei3RvFNXnqpRQ"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Domain" href="#_PFkYkN68EeiQKOcZo_8itQ"/>

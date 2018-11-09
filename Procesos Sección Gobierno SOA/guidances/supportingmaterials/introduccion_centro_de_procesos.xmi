@@ -3,16 +3,31 @@
   <mainDescription>&lt;p>&#xD;
     Esta herramienta&amp;nbsp;permite la navegación a través de los procesos definidos en la sección de gobierno SOA,&#xD;
     facilitando la divulgación de los procesos. Esta dirigida a todo publico interesado en conocer detalles de cada uno de&#xD;
-    los procesos.&lt;br />&#xD;
+    los procesos.&#xD;
 &lt;/p>&#xD;
-&lt;area href=&quot;./../../../Procesos Sección Gobierno SOA/workproducts/product_backlog_68345C16.html&quot; shape=&quot;rect&quot;&#xD;
-coords=&quot;62,96,168,174&quot; guid=&quot;_OZIPIOF8Edyp34pwdTOSVQ&quot; />&#xD;
-&lt;area href=&quot;./../../../Procesos Sección Gobierno SOA/workproducts/sprint_backlog_7A5B8A37.html&quot; shape=&quot;rect&quot;&#xD;
-coords=&quot;212,95,319,175&quot; guid=&quot;_Q5Ki8OF8Edyp34pwdTOSVQ&quot; />&#xD;
+&lt;p>&#xD;
+    &amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;./resources/gearwheels%20(1).png&quot; width=&quot;64&quot;&#xD;
+    height=&quot;64&quot; />&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+    &lt;img alt=&quot;&quot; src=&quot;resources/business_meeting.png&quot; width=&quot;64&quot; height=&quot;64&quot; />&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp; &lt;a class=&quot;elementLink&quot; href=&quot;./../../../Procesos Sección Gobierno SOA/customcategories/procesos_EDF4EF2C.html&quot;&#xD;
+    guid=&quot;_zRGGgLxVEeiaRZinmuc1jA&quot;>Procesos&lt;/a>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&#xD;
+    &amp;nbsp;&lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../../Procesos Sección Gobierno SOA/rolesetgroupings/roles_gobierno_soa_E1C2F4D5.html&quot;&#xD;
+    guid=&quot;_DOflUOLMEei3RvFNXnqpRQ&quot;>Roles Gobierno SOA&lt;/a>&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;area href=&quot;./../../../nullproduct_backlog_68345C16.html&quot; shape=&quot;rect&quot; coords=&quot;62,96,168,174&quot;&#xD;
+guid=&quot;_OZIPIOF8Edyp34pwdTOSVQ&quot; />&#xD;
+&lt;area href=&quot;./../../../nullsprint_backlog_7A5B8A37.html&quot; shape=&quot;rect&quot; coords=&quot;212,95,319,175&quot;&#xD;
+guid=&quot;_Q5Ki8OF8Edyp34pwdTOSVQ&quot; />&#xD;
 &lt;area href=&quot;./../../../Procesos Sección Gobierno SOA/tasks/7.realiza_contextualizacion_a_analistas_soa_C8FB7908.html&quot;&#xD;
 shape=&quot;rect&quot; coords=&quot;234,-2,362,69&quot; guid=&quot;_oSM0AOF-Edyp34pwdTOSVQ&quot; />&#xD;
-&lt;area href=&quot;./../../../Procesos Sección Gobierno SOA/workproducts/potentially_shippable_product_incremement_69E6418C.html&quot;&#xD;
-shape=&quot;rect&quot; coords=&quot;607,73,756,196&quot; guid=&quot;__uNYkPVgEdyMdecrgpMbRg&quot; />&#xD;
+&lt;area href=&quot;./../../../nullpotentially_shippable_product_incremement_69E6418C.html&quot; shape=&quot;rect&quot; coords=&quot;607,73,756,196&quot;&#xD;
+guid=&quot;__uNYkPVgEdyMdecrgpMbRg&quot; />&#xD;
 &lt;br />&#xD;
 &lt;br /></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>
